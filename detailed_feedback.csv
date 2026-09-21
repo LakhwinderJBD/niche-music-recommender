@@ -1,0 +1,1401 @@
+user_id;day;item_type;rank;song_name;artist_name;popularity;                  feedback
+user_study_participant_1;1;Listened;1;whatever cost;giant panda guerilla dub squad;66;
+user_study_participant_1;1;Listened;2;prairie rose;roxy music;91;
+user_study_participant_1;1;Listened;3;you'll always find me in the kitchen at parties;jona lewie;88;
+user_study_participant_1;1;Listened;4;get'cha head in the game;troy;45;
+user_study_participant_1;1;Listened;5;the night goes on;kenny rogers;51;
+user_study_participant_1;1;Listened;6;i never cared for you;willie nelson;89;
+user_study_participant_1;1;Listened;7;freakin' at the freakers' ball;dr. hook;68;
+user_study_participant_1;1;Listened;8;una ocacion;bubaseta;84;
+user_study_participant_1;1;Listened;9;my way to you;jamey johnson;37;
+user_study_participant_1;1;Listened;10;grind;phish;54;
+user_study_participant_1;1;Recommended;1;get real;wailing souls;3;1,0
+user_study_participant_1;1;Recommended;2;stay;astrud gilberto;2;0,0
+user_study_participant_1;1;Recommended;3;the devil don't sleep;brantley gilbert;0;0,0
+user_study_participant_1;1;Recommended;4;i believe (in everything);jj grey & mofro;0;0,0
+user_study_participant_1;1;Recommended;5;thinking of you;sister sledge;2;0,0
+user_study_participant_1;1;Recommended;6;plastic fantastic lover;jefferson airplane;0;0,0
+user_study_participant_1;1;Recommended;7;on the run;pink floyd;2;0,0
+user_study_participant_1;1;Recommended;8;take the moment;tony bennett;0;0,0
+user_study_participant_1;1;Recommended;9;cold cold world;stephen stills;0;0,0
+user_study_participant_1;1;Recommended;10;scatterbrain;radiohead;0;0,0
+user_study_participant_2;1;Listened;1;runnin' around;the b-52's;84;
+user_study_participant_2;1;Listened;2;the best;wayne wonder;69;
+user_study_participant_2;1;Listened;3;got to get better in a little while (with j. j. cale);eric clapton;93;
+user_study_participant_2;1;Listened;4;i go to sleep;cher;75;
+user_study_participant_2;1;Listened;5;havin' a party;southside johnny and the asbury jukes;97;
+user_study_participant_2;1;Listened;6;you go to my head;gene ammons;9;
+user_study_participant_2;1;Listened;7;mohammed's radio;warren zevon;86;
+user_study_participant_2;1;Listened;8;stormy;santana;44;
+user_study_participant_2;1;Listened;9;end of the night;the doors;66;
+user_study_participant_2;1;Listened;10;car radio;twenty one pilots;61;
+user_study_participant_2;1;Recommended;1;money;mat kearney;0;0,0
+user_study_participant_2;1;Recommended;2;someone could lose a heart tonight;eddie rabbitt;0;0,0
+user_study_participant_2;1;Recommended;3;in my life;crosby, stills & nash;0;1,0
+user_study_participant_2;1;Recommended;4;loungin (who do ya luv);ll cool j;0;0,0
+user_study_participant_2;1;Recommended;5;get the balance right!;depeche mode;7;0,0
+user_study_participant_2;1;Recommended;6;it's only right;wallows;0;0,0
+user_study_participant_2;1;Recommended;7;i don't mind;badfinger;0;0,0
+user_study_participant_2;1;Recommended;8;start a fyah;chronixx;3;0,0
+user_study_participant_2;1;Recommended;9;i overlooked an orchid;mickey gilley;0;0,0
+user_study_participant_2;1;Recommended;10;the bells;laura nyro;3;0,0
+user_study_participant_3;1;Listened;1;workin me;quavo;81;
+user_study_participant_3;1;Listened;2;just a dream;jimmy clanton;84;
+user_study_participant_3;1;Listened;3;alone;the green;39;
+user_study_participant_3;1;Listened;4;wallflower;peter gabriel;100;
+user_study_participant_3;1;Listened;5;so much in love;timothy b. schmit;55;
+user_study_participant_3;1;Listened;6;106 beats that;wire;35;
+user_study_participant_3;1;Listened;7;do you hear me now;bert jansch;30;
+user_study_participant_3;1;Listened;8;how are you true;cage the elephant;81;
+user_study_participant_3;1;Listened;9;my mic sounds nice;salt-n-pepa;98;
+user_study_participant_3;1;Listened;10;island;heather nova;59;
+user_study_participant_3;1;Recommended;1;look at her go (feat. chris brown);t-pain;10;0,0
+user_study_participant_3;1;Recommended;2;the big crash;eddie money;2;0,0
+user_study_participant_3;1;Recommended;3;relax, take it easy;mika;1;0,0
+user_study_participant_3;1;Recommended;4;factory;the vines;0;0,0
+user_study_participant_3;1;Recommended;5;you're my world;helen reddy;1;0,0
+user_study_participant_3;1;Recommended;6;heartbeat;the knack;0;0,0
+user_study_participant_3;1;Recommended;7;all stood still;ultravox;3;1,0
+user_study_participant_3;1;Recommended;8;mohabbat bhi jhoothi;mukesh;2;0,0
+user_study_participant_3;1;Recommended;9;the old crossroads;ricky skaggs;0;0,0
+user_study_participant_3;1;Recommended;10;anodyne;uncle tupelo;0;0,0
+user_study_participant_4;1;Listened;1;lonesome town;the ventures;59;
+user_study_participant_4;1;Listened;2;it don't mean a thing;proleter;71;
+user_study_participant_4;1;Listened;3;goodbye yesterday;jimmy cliff;37;
+user_study_participant_4;1;Listened;4;messenger;tesseract;87;
+user_study_participant_4;1;Listened;5;two night town;jason aldean;67;
+user_study_participant_4;1;Listened;6;use it or lose it;mötley crüe;65;
+user_study_participant_4;1;Listened;7;i've got no time to lose;carla thomas;52;
+user_study_participant_4;1;Listened;8;pretty girl;maggie lindemann;61;
+user_study_participant_4;1;Listened;9;give it away;ziggy marley;28;
+user_study_participant_4;1;Listened;10;without the one you love;aretha franklin;77;
+user_study_participant_4;1;Recommended;1;make him a soldier;the louvin brothers;1;0,0
+user_study_participant_4;1;Recommended;2;long dark road;the hollies;0;0,0
+user_study_participant_4;1;Recommended;3;mama this one's for you;beth hart;0;0,0
+user_study_participant_4;1;Recommended;4;lovers never say goodbye;the flamingos;28;0,0
+user_study_participant_4;1;Recommended;5;someone could lose a heart tonight;eddie rabbitt;0;0,0
+user_study_participant_4;1;Recommended;6;had to fall in love;the moody blues;15;1,0
+user_study_participant_4;1;Recommended;7;brave man's death;j. roddy walston & the business;0;0,0
+user_study_participant_4;1;Recommended;8;tyler;ub40;0;0,0
+user_study_participant_4;1;Recommended;9;senses working overtime;xtc;58;1,0
+user_study_participant_4;1;Recommended;10;mother's last word to her son;washington phillips;4;1,0
+user_study_participant_5;1;Listened;1;don’t let me be lonely;the band perry;69;
+user_study_participant_5;1;Listened;2;long time gone;darrell scott;60;
+user_study_participant_5;1;Listened;3;the lion's share;dan fogelberg;59;
+user_study_participant_5;1;Listened;4;paradise;resinated;95;
+user_study_participant_5;1;Listened;5;embraceable you;johnny mathis;59;
+user_study_participant_5;1;Listened;6;it's too late;robin trower;39;
+user_study_participant_5;1;Listened;7;the wind goes;marty robbins;32;
+user_study_participant_5;1;Listened;8;toys in the attic;aerosmith;29;
+user_study_participant_5;1;Listened;9;an empty glass (that's the way the day ends);randy rogers band;63;
+user_study_participant_5;1;Listened;10;dreams of tomorrow;lonnie liston smith;59;
+user_study_participant_5;1;Recommended;1;let it rain;warrant;1;0,0
+user_study_participant_5;1;Recommended;2;carolina moon;the chordettes;0;0,0
+user_study_participant_5;1;Recommended;3;my guy;mary wells;1;0,0
+user_study_participant_5;1;Recommended;4;an eye for an eye;ray price;3;0,0
+user_study_participant_5;1;Recommended;5;nice & warm;jonny lang;3;0,0
+user_study_participant_5;1;Recommended;6;it's supposed to bubble;ugk;0;0,0
+user_study_participant_5;1;Recommended;7;use your heart;swv;0;0,0
+user_study_participant_5;1;Recommended;8;astronaut's nightmare;nektar;0;0,0
+user_study_participant_5;1;Recommended;9;la goutte d'or;st germain;0;1,0
+user_study_participant_5;1;Recommended;10;echo's answer;broadcast;0;0,0
+user_study_participant_6;1;Listened;1;high sierra;dolly parton;74;
+user_study_participant_6;1;Listened;2;the judgment;the allman brothers band;95;
+user_study_participant_6;1;Listened;3;pull me under;dream theater;76;
+user_study_participant_6;1;Listened;4;somewhere down the line;t.g. sheppard;61;
+user_study_participant_6;1;Listened;5;with a little luck;wings;38;
+user_study_participant_6;1;Listened;6;dear mother;jimmy cliff;67;
+user_study_participant_6;1;Listened;7;pop;*nsync;85;
+user_study_participant_6;1;Listened;8;calm inside the storm;cyndi lauper;61;
+user_study_participant_6;1;Listened;9;dark entries;bauhaus;99;
+user_study_participant_6;1;Listened;10;stuck in the metal;eagles of death metal;80;
+user_study_participant_6;1;Recommended;1;sunrise;tesseract;1;0,0
+user_study_participant_6;1;Recommended;2;caroline, no;the beach boys;0;0,0
+user_study_participant_6;1;Recommended;3;bye bye baby;bonnie raitt;1;0,0
+user_study_participant_6;1;Recommended;4;got you on my mind;jean shepard;0;0,0
+user_study_participant_6;1;Recommended;5;la goutte d'or;st germain;0;0,0
+user_study_participant_6;1;Recommended;6;these stones will shout;the raconteurs;0;0,0
+user_study_participant_6;1;Recommended;7;a tale of 2 citiez;j. cole;0;0,0
+user_study_participant_6;1;Recommended;8;take on me;weezer;2;0,0
+user_study_participant_6;1;Recommended;9;free;mazzy star;13;1,0
+user_study_participant_6;1;Recommended;10;she makes me feel so good;lyle lovett;0;0,0
+user_study_participant_7;1;Listened;1;i overlooked an orchid;carl smith;54;
+user_study_participant_7;1;Listened;2;i concentrate on you;ella fitzgerald;67;
+user_study_participant_7;1;Listened;3;i get excited;rick springfield;95;
+user_study_participant_7;1;Listened;4;your light;scorpions;84;
+user_study_participant_7;1;Listened;5;my happiness;prince buster;49;
+user_study_participant_7;1;Listened;6;do you love as good as you look;the bellamy brothers;47;
+user_study_participant_7;1;Listened;7;promise;jagged edge;38;
+user_study_participant_7;1;Listened;8;so long baby;bobby day;59;
+user_study_participant_7;1;Listened;9;brand name;mac miller;68;
+user_study_participant_7;1;Listened;10;i could fall in love;selena;99;
+user_study_participant_7;1;Recommended;1;strange overtones;david byrne;8;0,0
+user_study_participant_7;1;Recommended;2;replica;fear factory;0;0,0
+user_study_participant_7;1;Recommended;3;keep up;the expendables;0;0,0
+user_study_participant_7;1;Recommended;4;guinevere;donovan;66;1,0
+user_study_participant_7;1;Recommended;5;astronaut's nightmare;nektar;0;0,0
+user_study_participant_7;1;Recommended;6;stardust;louis armstrong;0;0,0
+user_study_participant_7;1;Recommended;7;night train;the kills;0;0,0
+user_study_participant_7;1;Recommended;8;my fault;imagine dragons;0;0,0
+user_study_participant_7;1;Recommended;9;wang dang sweet poontang;ted nugent;0;0,0
+user_study_participant_7;1;Recommended;10;christmas-a-come;eek-a-mouse;18;1,0
+user_study_participant_8;1;Listened;1;the cape;guy clark;100;
+user_study_participant_8;1;Listened;2;paper boy;johnny cooper;59;
+user_study_participant_8;1;Listened;3;the dam at otter creek;live;49;
+user_study_participant_8;1;Listened;4;little jeannie;elton john;82;
+user_study_participant_8;1;Listened;5;downside of growing up;maddie & tae;78;
+user_study_participant_8;1;Listened;6;nothing lasts;bedroom;67;
+user_study_participant_8;1;Listened;7;it's you or no one;chet baker;91;
+user_study_participant_8;1;Listened;8;million dollar bill;middle brother;49;
+user_study_participant_8;1;Listened;9;i like drinking, cause it's fun;chase rice;100;
+user_study_participant_8;1;Listened;10;broke down;radio moscow;98;
+user_study_participant_8;1;Recommended;1;don't drink the piss;mad professor;2;0,0
+user_study_participant_8;1;Recommended;2;the color song (i lost my love);jean shepard;1;0,0
+user_study_participant_8;1;Recommended;3;come back to bed;john mayer;0;0,0
+user_study_participant_8;1;Recommended;4;18th & m;marcus johnson;2;0,0
+user_study_participant_8;1;Recommended;5;stop, look, listen (to your heart);diana ross;1;0,0
+user_study_participant_8;1;Recommended;6;your cheatin' heart;leon redbone;1;0,0
+user_study_participant_8;1;Recommended;7;i won't back down;johnny cash;25;1,0
+user_study_participant_8;1;Recommended;8;ride;twenty one pilots;0;0,0
+user_study_participant_8;1;Recommended;9;divine intervention;matthew sweet;1;0,0
+user_study_participant_8;1;Recommended;10;tyrant;judas priest;5;0,0
+user_study_participant_9;1;Listened;1;dry county;blackfoot;64;
+user_study_participant_9;1;Listened;2;yesterday;gladys knight & the pips;33;
+user_study_participant_9;1;Listened;3;don't put your hands on me;boyz n da hood;58;
+user_study_participant_9;1;Listened;4;cole world;j. cole;44;
+user_study_participant_9;1;Listened;5;an everlasting love;andy gibb;72;
+user_study_participant_9;1;Listened;6;when mama was moth;cocteau twins;94;
+user_study_participant_9;1;Listened;7;passion;shirley brown;93;
+user_study_participant_9;1;Listened;8;feel it;the crusaders;56;
+user_study_participant_9;1;Listened;9;happy days are here again;barbra streisand;69;
+user_study_participant_9;1;Listened;10;prisoner of love;the platters;65;
+user_study_participant_9;1;Recommended;1;in the arms of love;merle haggard;0;0,0
+user_study_participant_9;1;Recommended;2;i palindrome i;they might be giants;0;0,0
+user_study_participant_9;1;Recommended;3;suicide's an alternative / you'll be sorry;suicidal tendencies;0;0,0
+user_study_participant_9;1;Recommended;4;i'm holdin' on to love (to save my life);shania twain;0;0,0
+user_study_participant_9;1;Recommended;5;la goutte d'or;st germain;0;0,0
+user_study_participant_9;1;Recommended;6;dread a who she love;macka b;5;0,0
+user_study_participant_9;1;Recommended;7;lonesome valley;the carter family;1;0,0
+user_study_participant_9;1;Recommended;8;pimpin';tony yayo;1;0,0
+user_study_participant_9;1;Recommended;9;bring it to jerome;manfred mann;0;0,0
+user_study_participant_9;1;Recommended;10;who am i?;nina simone;0;0,0
+user_study_participant_10;1;Listened;1;awake;black rebel motorcycle club;57;
+user_study_participant_10;1;Listened;2;limbo rock;chubby checker;67;
+user_study_participant_10;1;Listened;3;run of the mill;george harrison;62;
+user_study_participant_10;1;Listened;4;solitaire;neil sedaka;93;
+user_study_participant_10;1;Listened;5;would you mind;earth, wind & fire;73;
+user_study_participant_10;1;Listened;6;i heard that lonesome whistle;johnny cash;80;
+user_study_participant_10;1;Listened;7;vampire;peter tosh;62;
+user_study_participant_10;1;Listened;8;title and registration;death cab for cutie;45;
+user_study_participant_10;1;Listened;9;country ghetto;jj grey & mofro;94;
+user_study_participant_10;1;Listened;10;remind me to forget;kygo;54;
+user_study_participant_10;1;Recommended;1;island boy;kenny chesney;0;0,0
+user_study_participant_10;1;Recommended;2;welcome to jamrock;damian marley;1;0,0
+user_study_participant_10;1;Recommended;3;astronaut's nightmare;nektar;0;0,0
+user_study_participant_10;1;Recommended;4;black keys;jonas brothers;1;0,0
+user_study_participant_10;1;Recommended;5;jah is the one;horace andy;2;0,0
+user_study_participant_10;1;Recommended;6;childish love;the louvin brothers;0;0,0
+user_study_participant_10;1;Recommended;7;the last time (i get burned like this);robert cray;1;0,0
+user_study_participant_10;1;Recommended;8;girl next door;long beach shortbus;0;0,0
+user_study_participant_10;1;Recommended;9;the conjuring;megadeth;1;0,0
+user_study_participant_10;1;Recommended;10;ghost town;adam lambert;3;0,0
+user_study_participant_1;2;Listened;1;keepin' it to myself;average white band;45;
+user_study_participant_1;2;Listened;2;leave a tender moment alone;billy joel;22;
+user_study_participant_1;2;Listened;3;minerva;deftones;67;
+user_study_participant_1;2;Listened;4;whatever lola wants;ella fitzgerald;86;
+user_study_participant_1;2;Listened;5;julia;the beatles;63;
+user_study_participant_1;2;Listened;6;echo;black rebel motorcycle club;49;
+user_study_participant_1;2;Listened;7;i loved you yesterday;lyle lovett;79;
+user_study_participant_1;2;Listened;8;violin;kate bush;97;
+user_study_participant_1;2;Listened;9;she took a lot of pills (and died);robbie fulks;40;
+user_study_participant_1;2;Listened;10;origin;tesseract;46;
+user_study_participant_1;2;Recommended;1;i beg of you;the allman brothers band;0;0,0
+user_study_participant_1;2;Recommended;2;falling;julee cruise;0;0,0
+user_study_participant_1;2;Recommended;3;ice cream man;the modern lovers;0;0,0
+user_study_participant_1;2;Recommended;4;crossover;epmd;0;0,0
+user_study_participant_1;2;Recommended;5;blue tarp blues;sonny landreth;0;0,0
+user_study_participant_1;2;Recommended;6;on the atchison, topeka & the sante fe;johnny mercer;0;0,0
+user_study_participant_1;2;Recommended;7;drowning on dry land/fish soup;manfred mann's earth band;0;0,0
+user_study_participant_1;2;Recommended;8;my fault;imagine dragons;0;1,0
+user_study_participant_1;2;Recommended;9;action;terror fabulous;0;0,0
+user_study_participant_1;2;Recommended;10;a maiden's prayer;ray price;0;0,0
+user_study_participant_2;2;Listened;1;marry the night;lady gaga;59;
+user_study_participant_2;2;Listened;2;down on my knees;bread;41;
+user_study_participant_2;2;Listened;3;danger at my door;mark chesnutt;54;
+user_study_participant_2;2;Listened;4;monkey see, monkey do;the budos band;81;
+user_study_participant_2;2;Listened;5;exit strategy of a wrecking ball;diablo swing orchestra;35;
+user_study_participant_2;2;Listened;6;is it true what they say about dixie?;dean martin;80;
+user_study_participant_2;2;Listened;7;out of reach;john mayall & the bluesbreakers;67;
+user_study_participant_2;2;Listened;8;miner's prayer;dwight yoakam;62;
+user_study_participant_2;2;Listened;9;4th of july;soundgarden;75;
+user_study_participant_2;2;Listened;10;the heart of life;john mayer;85;
+user_study_participant_2;2;Recommended;1;anodyne;uncle tupelo;0;0,0
+user_study_participant_2;2;Recommended;2;action;terror fabulous;0;0,0
+user_study_participant_2;2;Recommended;3;it don't bother me;bert jansch;0;1,0
+user_study_participant_2;2;Recommended;4;south bound saurez;led zeppelin;0;0,0
+user_study_participant_2;2;Recommended;5;soulful;l'indécis;21;1,0
+user_study_participant_2;2;Recommended;6;dirty love;frank zappa;0;0,0
+user_study_participant_2;2;Recommended;7;sweet leilani;bing crosby;0;0,0
+user_study_participant_2;2;Recommended;8;long dark road;the hollies;0;0,0
+user_study_participant_2;2;Recommended;9;shooting the moon;ok go;0;0,0
+user_study_participant_2;2;Recommended;10;the conjuring;megadeth;1;1,0
+user_study_participant_3;2;Listened;1;not falling;mudvayne;81;
+user_study_participant_3;2;Listened;2;rock me;great white;54;
+user_study_participant_3;2;Listened;3;love foolosophy (with beverley knight);jamiroquai;97;
+user_study_participant_3;2;Listened;4;sand in my face;10cc;93;
+user_study_participant_3;2;Listened;5;might not;belly;65;
+user_study_participant_3;2;Listened;6;this plane;wiz khalifa;37;
+user_study_participant_3;2;Listened;7;cry me a river;julie london;17;
+user_study_participant_3;2;Listened;8;once upon a time;tony bennett;58;
+user_study_participant_3;2;Listened;9;beautiful war;kings of leon;19;
+user_study_participant_3;2;Listened;10;heart;rockpile;61;
+user_study_participant_3;2;Recommended;1;every second;collin raye;0;0,0
+user_study_participant_3;2;Recommended;2;la goutte d'or;st germain;0;0,0
+user_study_participant_3;2;Recommended;3;it's supposed to bubble;ugk;0;0,0
+user_study_participant_3;2;Recommended;4;factory;the vines;0;0,0
+user_study_participant_3;2;Recommended;5;bad blood;taylor swift;3;0,0
+user_study_participant_3;2;Recommended;6;it ain't my fault;silkk the shocker;2;0,0
+user_study_participant_3;2;Recommended;7;forever again;gene watson;0;0,0
+user_study_participant_3;2;Recommended;8;madman's honey;wire;0;0,0
+user_study_participant_3;2;Recommended;9;retaliation suite;thievery corporation;0;0,0
+user_study_participant_3;2;Recommended;10;money make friend;yellowman;0;0,0
+user_study_participant_4;2;Listened;1;good time boy;buffalo springfield;38;
+user_study_participant_4;2;Listened;2;c'mon girl;red hot chili peppers;48;
+user_study_participant_4;2;Listened;3;for herself;reba mcentire;98;
+user_study_participant_4;2;Listened;4;warm baby;the lovin' spoonful;69;
+user_study_participant_4;2;Listened;5;air for vibraphone;bill le sage;47;
+user_study_participant_4;2;Listened;6;i forgot to remember to forget;johnny cash;23;
+user_study_participant_4;2;Listened;7;the purple heart;david allan coe;71;
+user_study_participant_4;2;Listened;8;ask yourself;foster the people;65;
+user_study_participant_4;2;Listened;9;ready;black rob;37;
+user_study_participant_4;2;Listened;10;holdin';diamond rio;56;
+user_study_participant_4;2;Recommended;1;miles out;john mclaughlin;0;0,0
+user_study_participant_4;2;Recommended;2;in the wake of poseidon;king crimson;0;0,0
+user_study_participant_4;2;Recommended;3;down in a hole;ryan adams & the cardinals;0;0,0
+user_study_participant_4;2;Recommended;4;shanty town (007);musical youth;0;0,0
+user_study_participant_4;2;Recommended;5;halo;soil;0;0,0
+user_study_participant_4;2;Recommended;6;therapy;khalid;0;0,0
+user_study_participant_4;2;Recommended;7;morning song for sally;nanci griffith;0;0,0
+user_study_participant_4;2;Recommended;8;thirteen;johnny cash;0;0,0
+user_study_participant_4;2;Recommended;9;stubborn love;the lumineers;0;0,0
+user_study_participant_4;2;Recommended;10;she is a woman;jimmy cliff;3;1,0
+user_study_participant_5;2;Listened;1;the arms of the one who loves you;xscape;39;
+user_study_participant_5;2;Listened;2;what i've got in mind;billie jo spears;70;
+user_study_participant_5;2;Listened;3;wonderful;ja rule;84;
+user_study_participant_5;2;Listened;4;spasm;meshuggah;49;
+user_study_participant_5;2;Listened;5;boogie woogie woman;b.b. king;83;
+user_study_participant_5;2;Listened;6;the klan;gil scott-heron;96;
+user_study_participant_5;2;Listened;7;i've got a crush on you;steve tyrell;72;
+user_study_participant_5;2;Listened;8;outcast;shinedown;72;
+user_study_participant_5;2;Listened;9;can i touch you there;leon ware;53;
+user_study_participant_5;2;Listened;10;puppy tail;demarco;77;
+user_study_participant_5;2;Recommended;1;needed me;rihanna;0;0,0
+user_study_participant_5;2;Recommended;2;key to my heart;the emotions;0;1,0
+user_study_participant_5;2;Recommended;3;surfin' bird;the trashmen;9;0,0
+user_study_participant_5;2;Recommended;4;teenage lament '74;alice cooper;0;0,0
+user_study_participant_5;2;Recommended;5;wreck;gentle giant;0;1,0
+user_study_participant_5;2;Recommended;6;crazy arms;ray price;1;0,0
+user_study_participant_5;2;Recommended;7;peaceful;helen reddy;1;1,0
+user_study_participant_5;2;Recommended;8;fade out;rival sons;0;0,0
+user_study_participant_5;2;Recommended;9;tu bol na bol;asha bhosle;16;1,0
+user_study_participant_5;2;Recommended;10;golden wings (instrumental);gabriel garzón-montano;2;0,0
+user_study_participant_6;2;Listened;1;fuck feelings;olivia o'brien;59;
+user_study_participant_6;2;Listened;2;the big day;chance the rapper;55;
+user_study_participant_6;2;Listened;3;we are the storm;the dillinger escape plan;19;
+user_study_participant_6;2;Listened;4;johnny law;slightly stoopid;80;
+user_study_participant_6;2;Listened;5;sound of your memory;lukas nelson and promise of the real;92;
+user_study_participant_6;2;Listened;6;ain't got nobody;grand funk railroad;48;
+user_study_participant_6;2;Listened;7;nurse rozetta;alice cooper;60;
+user_study_participant_6;2;Listened;8;ramblin' boy;tom paxton;43;
+user_study_participant_6;2;Listened;9;things change;tim mcgraw;58;
+user_study_participant_6;2;Listened;10;doubt;twenty one pilots;52;
+user_study_participant_6;2;Recommended;1;chance;kenny kirkland;0;0,0
+user_study_participant_6;2;Recommended;2;winter wonderland;george strait;3;0,0
+user_study_participant_6;2;Recommended;3;three and nine;roxy music;0;0,0
+user_study_participant_6;2;Recommended;4;love plus one;haircut 100;2;0,0
+user_study_participant_6;2;Recommended;5;como en cámara lenta (en vivo);mime 871;3;0,0
+user_study_participant_6;2;Recommended;6;black history month;death from above 1979;0;0,0
+user_study_participant_6;2;Recommended;7;fearless;the neville brothers;44;1,0
+user_study_participant_6;2;Recommended;8;oh baby mine (i get so lonely);the statler brothers;0;0,0
+user_study_participant_6;2;Recommended;9;escape;pete rock & c.l. smooth;0;0,0
+user_study_participant_6;2;Recommended;10;mommy can i go out and kill tonight;misfits;0;1,0
+user_study_participant_7;2;Listened;1;sharing you;bobby vee;100;
+user_study_participant_7;2;Listened;2;out, damn light;sofa surfers;31;
+user_study_participant_7;2;Listened;3;they ask me;j-kwon;92;
+user_study_participant_7;2;Listened;4;big log;robert plant;89;
+user_study_participant_7;2;Listened;5;bargain of a century;albert hammond, jr.;86;
+user_study_participant_7;2;Listened;6;too late now;wes montgomery trio;84;
+user_study_participant_7;2;Listened;7;if only your eyes could lie;earl thomas conley;95;
+user_study_participant_7;2;Listened;8;woman's got soul;the impressions;44;
+user_study_participant_7;2;Listened;9;turn back time;jonathan fritzén;88;
+user_study_participant_7;2;Listened;10;metropolis;the church;78;
+user_study_participant_7;2;Recommended;1;nothin' for nothin';cinderella;0;0,0
+user_study_participant_7;2;Recommended;2;sleeping by her side;john mayall;1;0,0
+user_study_participant_7;2;Recommended;3;tryin' to get over you;vince gill;0;0,0
+user_study_participant_7;2;Recommended;4;restless sinner;black rebel motorcycle club;2;0,0
+user_study_participant_7;2;Recommended;5;fever;madonna;0;0,0
+user_study_participant_7;2;Recommended;6;superstar;joe cocker;1;0,0
+user_study_participant_7;2;Recommended;7;johnny's got a gun;dead moon;0;0,0
+user_study_participant_7;2;Recommended;8;spring affair;donna summer;0;0,0
+user_study_participant_7;2;Recommended;9;jah live;luciano;0;1,0
+user_study_participant_7;2;Recommended;10;day for the dead;zac brown band;16;0,0
+user_study_participant_8;2;Listened;1;russian roulette;rihanna;60;
+user_study_participant_8;2;Listened;2;two teardrops;steve wariner;59;
+user_study_participant_8;2;Listened;3;sometimes i cry;chris stapleton;97;
+user_study_participant_8;2;Listened;4;time for us;little river band;61;
+user_study_participant_8;2;Listened;5;as long as i live;jackie wilson;30;
+user_study_participant_8;2;Listened;6;you hit the spot;sarah vaughan;29;
+user_study_participant_8;2;Listened;7;sunrise;hoyt axton;56;
+user_study_participant_8;2;Listened;8;black is beautiful;chronixx;71;
+user_study_participant_8;2;Listened;9;goodnight song;tears for fears;80;
+user_study_participant_8;2;Listened;10;at the first fall of snow;hank williams;62;
+user_study_participant_8;2;Recommended;1;crying in the shadows;gary moore;0;0,0
+user_study_participant_8;2;Recommended;2;don't ever leave me;keith jarrett;0;0,0
+user_study_participant_8;2;Recommended;3;johnny's got a gun;dead moon;0;0,0
+user_study_participant_8;2;Recommended;4;greedy dog;israel vibration;20;0,0
+user_study_participant_8;2;Recommended;5;therapy;khalid;0;0,0
+user_study_participant_8;2;Recommended;6;lies;the rolling stones;0;1,0
+user_study_participant_8;2;Recommended;7;i'll be your mirror;the velvet underground;0;0,0
+user_study_participant_8;2;Recommended;8;a fine romance;ella fitzgerald;2;1,0
+user_study_participant_8;2;Recommended;9;your heart belongs to me;the supremes;0;0,0
+user_study_participant_8;2;Recommended;10;staying up;the neighbourhood;2;0,0
+user_study_participant_9;2;Listened;1;trap hop;waka flocka flame;64;
+user_study_participant_9;2;Listened;2;i found you;soja;30;
+user_study_participant_9;2;Listened;3;bitches;mitchell tenpenny;61;
+user_study_participant_9;2;Listened;4;promised land;majek fashek;64;
+user_study_participant_9;2;Listened;5;the man;the killers;62;
+user_study_participant_9;2;Listened;6;hello africa;garnett silk;85;
+user_study_participant_9;2;Listened;7;iron man;black sabbath;75;
+user_study_participant_9;2;Listened;8;swing spring;miles davis;60;
+user_study_participant_9;2;Listened;9;get your roll on;big tymers;92;
+user_study_participant_9;2;Listened;10;what if;creed;32;
+user_study_participant_9;2;Recommended;1;watch what happens;tony bennett;0;0,0
+user_study_participant_9;2;Recommended;2;closer;six60;5;0,0
+user_study_participant_9;2;Recommended;3;the feel good drag;anberlin;0;0,0
+user_study_participant_9;2;Recommended;4;more human than human;white zombie;0;1,0
+user_study_participant_9;2;Recommended;5;there must be something about me that she loves;the oak ridge boys;2;1,0
+user_study_participant_9;2;Recommended;6;i will come to you;hanson;0;0,0
+user_study_participant_9;2;Recommended;7;black history month;death from above 1979;0;0,0
+user_study_participant_9;2;Recommended;8;tourette's;nirvana;5;0,0
+user_study_participant_9;2;Recommended;9;take the power back;rage against the machine;1;0,0
+user_study_participant_9;2;Recommended;10;where eagles dare;misfits;0;0,0
+user_study_participant_10;2;Listened;1;living dead girl;rob zombie;59;
+user_study_participant_10;2;Listened;2;life song;the black angels;69;
+user_study_participant_10;2;Listened;3;miracle;paramore;89;
+user_study_participant_10;2;Listened;4;i'm not afraid to die;gillian welch;57;
+user_study_participant_10;2;Listened;5;we are the same;jonny lang;48;
+user_study_participant_10;2;Listened;6;joker hysterical face;the fall;43;
+user_study_participant_10;2;Listened;7;how are you true;cage the elephant;81;
+user_study_participant_10;2;Listened;8;an owl song;canned heat;67;
+user_study_participant_10;2;Listened;9;sweet love;najee;53;
+user_study_participant_10;2;Listened;10;take a lick;akinyele;84;
+user_study_participant_10;2;Recommended;1;another's lifetime;steppenwolf;0;1,0
+user_study_participant_10;2;Recommended;2;savia;soen;7;1,0
+user_study_participant_10;2;Recommended;3;it won't stop;typical cats;4;1,0
+user_study_participant_10;2;Recommended;4;high school musical;high school musical cast;1;0,0
+user_study_participant_10;2;Recommended;5;black history month;death from above 1979;0;0,0
+user_study_participant_10;2;Recommended;6;forever;john michael montgomery;0;0,0
+user_study_participant_10;2;Recommended;7;hold on to god;dwight yoakam;1;0,0
+user_study_participant_10;2;Recommended;8;gotta serve somebody (with lacy j. dalton);david allan coe;0;0,0
+user_study_participant_10;2;Recommended;9;crossover;epmd;0;0,0
+user_study_participant_10;2;Recommended;10;i beg of you;the allman brothers band;0;0,0
+user_study_participant_1;3;Listened;1;so good after midnight;climax blues band;93;
+user_study_participant_1;3;Listened;2;four;miles davis quartet;98;
+user_study_participant_1;3;Listened;3;a song for while i'm away;thin lizzy;35;
+user_study_participant_1;3;Listened;4;lookin' for a home;al kooper;82;
+user_study_participant_1;3;Listened;5;anything you can spare;george strait;87;
+user_study_participant_1;3;Listened;6;alwayz into somethin';n.w.a.;30;
+user_study_participant_1;3;Listened;7;ghetto music;boogie down productions;86;
+user_study_participant_1;3;Listened;8;(back to the) heartbreak kid;restless heart;99;
+user_study_participant_1;3;Listened;9;philly;spyro gyra;78;
+user_study_participant_1;3;Listened;10;armistice day;paul simon;61;
+user_study_participant_1;3;Recommended;1;horses (with pnb rock, kodak black & a boogie wit da hoodie);pnb rock;0;0,0
+user_study_participant_1;3;Recommended;2;lucky man;mark chesnutt;2;0,0
+user_study_participant_1;3;Recommended;3;astronaut's nightmare;nektar;0;0,0
+user_study_participant_1;3;Recommended;4;nothing matters but you;the everly brothers;1;0,0
+user_study_participant_1;3;Recommended;5;i don't want to be a hero;johnny hates jazz;2;0,0
+user_study_participant_1;3;Recommended;6;love hurts (feat. travis scott);playboi carti;5;0,0
+user_study_participant_1;3;Recommended;7;in your room;depeche mode;0;0,0
+user_study_participant_1;3;Recommended;8;three times a lady;kenny rogers;0;0,0
+user_study_participant_1;3;Recommended;9;walk away renée;jimmy lafave;0;0,0
+user_study_participant_1;3;Recommended;10;one hundred sleepless nights;pierce the veil;7;0,0
+user_study_participant_2;3;Listened;1;longing for;jah cure;66;
+user_study_participant_2;3;Listened;2;black out days;phantogram;65;
+user_study_participant_2;3;Listened;3;joy and pain;count basic;86;
+user_study_participant_2;3;Listened;4;you're gonna need somebody on your bond;donovan;44;
+user_study_participant_2;3;Listened;5;waterfall;shakatak;20;
+user_study_participant_2;3;Listened;6;tonight;iggy pop;90;
+user_study_participant_2;3;Listened;7;you and i;glenn miller;71;
+user_study_participant_2;3;Listened;8;wasted years;iron maiden;52;
+user_study_participant_2;3;Listened;9;change of ideas;bad religion;69;
+user_study_participant_2;3;Listened;10;the last in line;dio;99;
+user_study_participant_2;3;Recommended;1;lies;the rolling stones;0;0,0
+user_study_participant_2;3;Recommended;2;but not like you;the platters;0;0,0
+user_study_participant_2;3;Recommended;3;use your heart;swv;0;0,0
+user_study_participant_2;3;Recommended;4;replica;fear factory;0;0,0
+user_study_participant_2;3;Recommended;5;damaged goods;gang of four;0;0,0
+user_study_participant_2;3;Recommended;6;shangri-la;the lettermen;0;0,0
+user_study_participant_2;3;Recommended;7;riser;dierks bentley;0;0,0
+user_study_participant_2;3;Recommended;8;forever again;gene watson;0;0,0
+user_study_participant_2;3;Recommended;9;the walls of a prison;johnny cash;24;1,0
+user_study_participant_2;3;Recommended;10;one world (not three);pato banton;0;1,0
+user_study_participant_3;3;Listened;1;lovegame;lady gaga;65;
+user_study_participant_3;3;Listened;2;i be u be;high valley;93;
+user_study_participant_3;3;Listened;3;just you and me;the birthday party;49;
+user_study_participant_3;3;Listened;4;play something sweet;levon helm;62;
+user_study_participant_3;3;Listened;5;foolin' around;waylon jennings;67;
+user_study_participant_3;3;Listened;6;the stomp;ten years after;57;
+user_study_participant_3;3;Listened;7;she is love;parachute;90;
+user_study_participant_3;3;Listened;8;the great pretender;sam cooke;76;
+user_study_participant_3;3;Listened;9;he's a tramp;peggy lee;63;
+user_study_participant_3;3;Listened;10;this time around;cross canadian ragweed;99;
+user_study_participant_3;3;Recommended;1;i'm wearing black;granger smith;3;0,0
+user_study_participant_3;3;Recommended;2;bodily corrupted;gorguts;0;0,0
+user_study_participant_3;3;Recommended;3;and you and i;yes;2;0,0
+user_study_participant_3;3;Recommended;4;hyper-ballad;björk;0;0,0
+user_study_participant_3;3;Recommended;5;chance;kenny kirkland;0;0,0
+user_study_participant_3;3;Recommended;6;7 months, 39 days;hank williams iii;0;0,0
+user_study_participant_3;3;Recommended;7;night train;the kills;0;0,0
+user_study_participant_3;3;Recommended;8;sunrise;our last night;26;0,0
+user_study_participant_3;3;Recommended;9;it's not my cross to bear;the gregg allman band;0;0,0
+user_study_participant_3;3;Recommended;10;ring them bells;bob dylan;0;0,0
+user_study_participant_4;3;Listened;1;can't get away from a good time;logan mize;60;
+user_study_participant_4;3;Listened;2;king crown of judah (feat. shyne and ravid kahalani);matisyahu;85;
+user_study_participant_4;3;Listened;3;mr. limousine driver;grand funk railroad;58;
+user_study_participant_4;3;Listened;4;all night till day light;jacob miller;100;
+user_study_participant_4;3;Listened;5;puppet on a string;elvis presley;91;
+user_study_participant_4;3;Listened;6;i'm always on a mountain when i fall;merle haggard;64;
+user_study_participant_4;3;Listened;7;the end of heartache;killswitch engage;37;
+user_study_participant_4;3;Listened;8;fun, fun, fun (stereo);the beach boys;79;
+user_study_participant_4;3;Listened;9;does my ring burn your finger;lee ann womack;68;
+user_study_participant_4;3;Listened;10;on my word of honor;the platters;75;
+user_study_participant_4;3;Recommended;1;just for you;aretha franklin;0;0,0
+user_study_participant_4;3;Recommended;2;i'm coming home;elvis presley;0;1,0
+user_study_participant_4;3;Recommended;3;sparks of the tempest;kansas;0;0,0
+user_study_participant_4;3;Recommended;4;you could be mine;guns n' roses;2;0,0
+user_study_participant_4;3;Recommended;5;night time is the right time;the sonics;0;0,0
+user_study_participant_4;3;Recommended;6;ride;twenty one pilots;0;0,0
+user_study_participant_4;3;Recommended;7;just my luck;tia ray;0;0,0
+user_study_participant_4;3;Recommended;8;please be patient with me;wilco;0;0,0
+user_study_participant_4;3;Recommended;9;money make friend;yellowman;0;0,0
+user_study_participant_4;3;Recommended;10;ain't no more cane;bob dylan;0;0,0
+user_study_participant_5;3;Listened;1;long may you run;the stills-young band;69;
+user_study_participant_5;3;Listened;2;bal shem tov;matisyahu;49;
+user_study_participant_5;3;Listened;3;then he kissed me;the crystals;81;
+user_study_participant_5;3;Listened;4;keeper of my heart;bob wills;24;
+user_study_participant_5;3;Listened;5;after the lights go out;ricky van shelton;83;
+user_study_participant_5;3;Listened;6;there goes my gun;pixies;74;
+user_study_participant_5;3;Listened;7;let's call it a day;stonewall jackson;40;
+user_study_participant_5;3;Listened;8;new beginning;radio moscow;93;
+user_study_participant_5;3;Listened;9;just a little bit better;herman's hermits;63;
+user_study_participant_5;3;Listened;10;in the dark;reignwolf;61;
+user_study_participant_5;3;Recommended;1;love potion #9;gary lewis & the playboys;0;0,0
+user_study_participant_5;3;Recommended;2;i ain't no nice guy;motörhead;2;1,0
+user_study_participant_5;3;Recommended;3;somebody's gonna love you;lee greenwood;4;0,0
+user_study_participant_5;3;Recommended;4;in the army now 2010;status quo;8;1,0
+user_study_participant_5;3;Recommended;5;three and nine;roxy music;0;0,0
+user_study_participant_5;3;Recommended;6;i just want to love you forever;johnny lee;5;0,0
+user_study_participant_5;3;Recommended;7;crossover;epmd;0;0,0
+user_study_participant_5;3;Recommended;8;panic prone;chevelle;0;0,0
+user_study_participant_5;3;Recommended;9;i walk the line;johnny cash;0;0,0
+user_study_participant_5;3;Recommended;10;she makes me feel so good;lyle lovett;0;0,0
+user_study_participant_6;3;Listened;1;you've really got a hold on me;mickey gilley;100;
+user_study_participant_6;3;Listened;2;gang;swans;62;
+user_study_participant_6;3;Listened;3;we must believe in magic;crystal gayle;65;
+user_study_participant_6;3;Listened;4;how do you feel?;hank thompson;46;
+user_study_participant_6;3;Listened;5;if you pray right (heaven belongs to you);nina simone;51;
+user_study_participant_6;3;Listened;6;a guide for i & i;thievery corporation;77;
+user_study_participant_6;3;Listened;7;driftin' way of life;jerry jeff walker;65;
+user_study_participant_6;3;Listened;8;play on;luciano;57;
+user_study_participant_6;3;Listened;9;i go crazy;will downing;87;
+user_study_participant_6;3;Listened;10;private world;new york dolls;98;
+user_study_participant_6;3;Recommended;1;but not like you;the platters;0;0,0
+user_study_participant_6;3;Recommended;2;that's him over there;nina simone;0;0,0
+user_study_participant_6;3;Recommended;3;spanish harlem;aretha franklin;2;0,0
+user_study_participant_6;3;Recommended;4;a place only you can go;needtobreathe;2;0,0
+user_study_participant_6;3;Recommended;5;yikes;kanye west;3;1,0
+user_study_participant_6;3;Recommended;6;no true love;the dixie cups;3;0,0
+user_study_participant_6;3;Recommended;7;shanty town (007);musical youth;0;0,0
+user_study_participant_6;3;Recommended;8;in the kingdom #19;sonic youth;1;0,0
+user_study_participant_6;3;Recommended;9;my heart belongs to daddy;julie london;0;0,0
+user_study_participant_6;3;Recommended;10;oh! sweet nuthin';the velvet underground;3;0,0
+user_study_participant_7;3;Listened;1;mad about you;sting;99;
+user_study_participant_7;3;Listened;2;hometown glory;adele;58;
+user_study_participant_7;3;Listened;3;disseshowedo;souls of mischief;98;
+user_study_participant_7;3;Listened;4;at last;lou rawls;76;
+user_study_participant_7;3;Listened;5;get behind me;scott walker;80;
+user_study_participant_7;3;Listened;6;gin and juice (feat. dat nigga daz);snoop dogg;97;
+user_study_participant_7;3;Listened;7;don't forget;the platters;94;
+user_study_participant_7;3;Listened;8;take a lick;akinyele;84;
+user_study_participant_7;3;Listened;9;are you in?;incubus;34;
+user_study_participant_7;3;Listened;10;east point;rambutan jam band;67;
+user_study_participant_7;3;Recommended;1;please come back home;carl smith;0;0,0
+user_study_participant_7;3;Recommended;2;cold brains;beck;1;0,0
+user_study_participant_7;3;Recommended;3;back in your head;tegan and sara;2;0,0
+user_study_participant_7;3;Recommended;4;fade out;rival sons;0;0,0
+user_study_participant_7;3;Recommended;5;damaged goods;gang of four;0;0,0
+user_study_participant_7;3;Recommended;6;lost inside your love;badfinger;1;0,0
+user_study_participant_7;3;Recommended;7;stella by starlight;joe pass;1;0,0
+user_study_participant_7;3;Recommended;8;seminole wind;john anderson;1;0,0
+user_study_participant_7;3;Recommended;9;art for art's sake;10cc;0;0,0
+user_study_participant_7;3;Recommended;10;crying;don mclean;1;1,0
+user_study_participant_8;3;Listened;1;house of love;steel pulse;25;
+user_study_participant_8;3;Listened;2;entombed;deftones;62;
+user_study_participant_8;3;Listened;3;wait;the beatles;61;
+user_study_participant_8;3;Listened;4;the pressure;a tribe called quest;56;
+user_study_participant_8;3;Listened;5;megatron;nicki minaj;86;
+user_study_participant_8;3;Listened;6;rack 'em up;jonny lang;44;
+user_study_participant_8;3;Listened;7;all of me;esquivel!;76;
+user_study_participant_8;3;Listened;8;lazy day;us3;51;
+user_study_participant_8;3;Listened;9;sheep in wolves clothes;little hurricane;81;
+user_study_participant_8;3;Listened;10;little queenie;chuck berry;91;
+user_study_participant_8;3;Recommended;1;romantic rights;death from above 1979;1;0,0
+user_study_participant_8;3;Recommended;2;that's him over there;nina simone;0;0,0
+user_study_participant_8;3;Recommended;3;i'm gonna be warm this winter;connie francis;2;0,0
+user_study_participant_8;3;Recommended;4;corner bar;uncle kracker;1;0,0
+user_study_participant_8;3;Recommended;5;it’s all over but the shouting;jd mcpherson;0;0,0
+user_study_participant_8;3;Recommended;6;got you on my mind;jean shepard;0;0,0
+user_study_participant_8;3;Recommended;7;hash pipe;weezer;5;0,0
+user_study_participant_8;3;Recommended;8;blue to the bone;sweethearts of the rodeo;0;0,0
+user_study_participant_8;3;Recommended;9;break my body;pixies;0;0,0
+user_study_participant_8;3;Recommended;10;a fool such as i;slim whitman;0;0,0
+user_study_participant_9;3;Listened;1;bad habit;the offspring;43;
+user_study_participant_9;3;Listened;2;alone, together;the strokes;83;
+user_study_participant_9;3;Listened;3;be one;phyllis hyman;94;
+user_study_participant_9;3;Listened;4;she made a memory out of me;aaron tippin;99;
+user_study_participant_9;3;Listened;5;don't run;wailing souls;100;
+user_study_participant_9;3;Listened;6;novocain stain;modest mouse;81;
+user_study_participant_9;3;Listened;7;make it with you;aretha franklin;99;
+user_study_participant_9;3;Listened;8;the man whose head expanded;the fall;49;
+user_study_participant_9;3;Listened;9;400 degreez;juvenile;31;
+user_study_participant_9;3;Listened;10;it's not the night;the cars;89;
+user_study_participant_9;3;Recommended;1;drowning on dry land/fish soup;manfred mann's earth band;0;0,0
+user_study_participant_9;3;Recommended;2;behind the mask;yellow magic orchestra;16;0,0
+user_study_participant_9;3;Recommended;3;over my head (better off dead);sum 41;0;1,0
+user_study_participant_9;3;Recommended;4;it's a tuff life;pat benatar;0;1,0
+user_study_participant_9;3;Recommended;5;thanks a lot;hank williams, jr.;0;0,0
+user_study_participant_9;3;Recommended;6;alone again (naturally);gilbert o'sullivan;10;0,0
+user_study_participant_9;3;Recommended;7;poor traits of the artist;ron gallo;0;0,0
+user_study_participant_9;3;Recommended;8;if i cross your mind;dolly parton;0;0,0
+user_study_participant_9;3;Recommended;9;further on up the road;eric clapton;46;1,0
+user_study_participant_9;3;Recommended;10;in my life;crosby, stills & nash;0;0,0
+user_study_participant_10;3;Listened;1;somebody to love;justin bieber;38;
+user_study_participant_10;3;Listened;2;stand!;sly & the family stone;60;
+user_study_participant_10;3;Listened;3;broken hearted me;england dan;79;
+user_study_participant_10;3;Listened;4;thistle & weeds;mumford & sons;54;
+user_study_participant_10;3;Listened;5;it's so easy falling;manfred mann;73;
+user_study_participant_10;3;Listened;6;winter wonderland;tony bennett;62;
+user_study_participant_10;3;Listened;7;dreams of the everyday housewife;gary puckett & the union gap;91;
+user_study_participant_10;3;Listened;8;walking in the rain;the partridge family;62;
+user_study_participant_10;3;Listened;9;jack palance;van dyke parks;80;
+user_study_participant_10;3;Listened;10;one song;dave brubeck;99;
+user_study_participant_10;3;Recommended;1;teenage lament '74;alice cooper;0;1,0
+user_study_participant_10;3;Recommended;2;master of puppets;metallica;3;0,0
+user_study_participant_10;3;Recommended;3;another's lifetime;steppenwolf;0;0,0
+user_study_participant_10;3;Recommended;4;fair but so uncool;earth, wind & fire;0;0,0
+user_study_participant_10;3;Recommended;5;riding the waves;dee dee sharp;1;0,0
+user_study_participant_10;3;Recommended;6;behind that locked door;george harrison;0;1,0
+user_study_participant_10;3;Recommended;7;kneel at the cross;the louvin brothers;1;0,0
+user_study_participant_10;3;Recommended;8;ring them bells;bob dylan;0;0,0
+user_study_participant_10;3;Recommended;9;just for you;aretha franklin;0;0,0
+user_study_participant_10;3;Recommended;10;childish love;the louvin brothers;0;0,0
+user_study_participant_1;4;Listened;1;like flies on sherbert;alex chilton;51;
+user_study_participant_1;4;Listened;2;funky fever;clarence carter;78;
+user_study_participant_1;4;Listened;3;my summer love;the tymes;45;
+user_study_participant_1;4;Listened;4;brand new funk 2k7 feat. peedi crakk;dj jazzy jeff;82;
+user_study_participant_1;4;Listened;5;we've had enough!;macka b;71;
+user_study_participant_1;4;Listened;6;make someone happy;chris botti;53;
+user_study_participant_1;4;Listened;7;lasso;phoenix;68;
+user_study_participant_1;4;Listened;8;low down blues;bunk johnson;93;
+user_study_participant_1;4;Listened;9;snowflake;bumpin uglies;53;
+user_study_participant_1;4;Listened;10;bad liar;selena gomez;88;
+user_study_participant_1;4;Recommended;1;unleashed;killswitch engage;0;0,0
+user_study_participant_1;4;Recommended;2;happiness in slavery;nine inch nails;0;0,0
+user_study_participant_1;4;Recommended;3;action;terror fabulous;0;0,0
+user_study_participant_1;4;Recommended;4;south bound saurez;led zeppelin;0;0,0
+user_study_participant_1;4;Recommended;5;jingle bell rock;chet atkins;2;1,0
+user_study_participant_1;4;Recommended;6;the surrey with the fringe on top;doris day;2;0,0
+user_study_participant_1;4;Recommended;7;horses (with pnb rock, kodak black & a boogie wit da hoodie);pnb rock;0;0,0
+user_study_participant_1;4;Recommended;8;love is here to stay;tony bennett;0;0,0
+user_study_participant_1;4;Recommended;9;ding-dong! the witch is dead;ella fitzgerald;13;0,0
+user_study_participant_1;4;Recommended;10;columbus stockade;no blues;1;0,0
+user_study_participant_2;4;Listened;1;california;big & rich;71;
+user_study_participant_2;4;Listened;2;second choice;stonewall jackson;68;
+user_study_participant_2;4;Listened;3;oh, candy;cheap trick;83;
+user_study_participant_2;4;Listened;4;i'm in a blue, blue mood;conway twitty;51;
+user_study_participant_2;4;Listened;5;my happiness;prince buster;49;
+user_study_participant_2;4;Listened;6;gimmie got shot;yg;68;
+user_study_participant_2;4;Listened;7;caroling, caroling;nat king cole;77;
+user_study_participant_2;4;Listened;8;little queenie;chuck berry;91;
+user_study_participant_2;4;Listened;9;leaving this town;the beach boys;65;
+user_study_participant_2;4;Listened;10;bouncing off the walls;sugarcult;85;
+user_study_participant_2;4;Recommended;1;in my life;crosby, stills & nash;0;0,0
+user_study_participant_2;4;Recommended;2;madman's honey;wire;0;0,0
+user_study_participant_2;4;Recommended;3;caroline, no;the beach boys;0;0,0
+user_study_participant_2;4;Recommended;4;one more drinkin' song;jerrod niemann;0;0,0
+user_study_participant_2;4;Recommended;5;just for you;aretha franklin;0;0,0
+user_study_participant_2;4;Recommended;6;wreck;gentle giant;0;0,0
+user_study_participant_2;4;Recommended;7;song about the moon;paul simon;1;1,0
+user_study_participant_2;4;Recommended;8;idaho;benny goodman;0;0,0
+user_study_participant_2;4;Recommended;9;the judge's daughter;green day;0;0,0
+user_study_participant_2;4;Recommended;10;falling in love again;linda ronstadt;31;0,0
+user_study_participant_3;4;Listened;1;the space between;roxy music;51;
+user_study_participant_3;4;Listened;2;i wonder where we'd be tonight;vern gosdin;76;
+user_study_participant_3;4;Listened;3;the big payback;epmd;37;
+user_study_participant_3;4;Listened;4;don't let it end;styx;97;
+user_study_participant_3;4;Listened;5;everything i do gonna be funky (from now on);lou donaldson;98;
+user_study_participant_3;4;Listened;6;beer barrel polka (roll out the barrel);hank thompson;48;
+user_study_participant_3;4;Listened;7;for you;john denver;64;
+user_study_participant_3;4;Listened;8;taken;one direction;32;
+user_study_participant_3;4;Listened;9;won't you take me back;the miracles;45;
+user_study_participant_3;4;Listened;10;save yourself;jonny lang;38;
+user_study_participant_3;4;Recommended;1;take my breath away;jessica simpson;1;0,0
+user_study_participant_3;4;Recommended;2;come and get it;kip moore;10;1,0
+user_study_participant_3;4;Recommended;3;escape;alice cooper;0;1,0
+user_study_participant_3;4;Recommended;4;screaming in the night;krokus;20;0,0
+user_study_participant_3;4;Recommended;5;five hundred miles;peter and gordon;1;0,0
+user_study_participant_3;4;Recommended;6;somebody should leave;reba mcentire;0;0,0
+user_study_participant_3;4;Recommended;7;run away little tears;connie smith;1;1,0
+user_study_participant_3;4;Recommended;8;praying;vern gosdin;4;0,0
+user_study_participant_3;4;Recommended;9;blaze it up;bone thugs-n-harmony;2;0,0
+user_study_participant_3;4;Recommended;10;solid;eric church;1;0,0
+user_study_participant_4;4;Listened;1;boulevard of broken dreams;green day;54;
+user_study_participant_4;4;Listened;2;devil's child;judas priest;68;
+user_study_participant_4;4;Listened;3;3am;vybz kartel;51;
+user_study_participant_4;4;Listened;4;manic depression;jimi hendrix;87;
+user_study_participant_4;4;Listened;5;gimme 8 seconds;toby keith;93;
+user_study_participant_4;4;Listened;6;manic mechanic;zz top;49;
+user_study_participant_4;4;Listened;7;ridin' my thumb to mexico;johnny rodriguez;76;
+user_study_participant_4;4;Listened;8;better than me;tucker beathard;67;
+user_study_participant_4;4;Listened;9;hip hop's cool again;oddisee;50;
+user_study_participant_4;4;Listened;10;life goes on;shirley bassey;64;
+user_study_participant_4;4;Recommended;1;it ain't hard to tell;nas;1;0,0
+user_study_participant_4;4;Recommended;2;gotta serve somebody (with lacy j. dalton);david allan coe;0;0,0
+user_study_participant_4;4;Recommended;3;so into you;nipsey hussle;0;0,0
+user_study_participant_4;4;Recommended;4;johnny's got a gun;dead moon;0;0,0
+user_study_participant_4;4;Recommended;5;yesterday's songs;neil diamond;1;0,0
+user_study_participant_4;4;Recommended;6;replica;fear factory;0;0,0
+user_study_participant_4;4;Recommended;7;fever;madonna;0;0,0
+user_study_participant_4;4;Recommended;8;i go on;mc lyte;0;0,0
+user_study_participant_4;4;Recommended;9;june;rjd2;0;0,0
+user_study_participant_4;4;Recommended;10;bullet with butterfly wings;the smashing pumpkins;0;0,0
+user_study_participant_5;4;Listened;1;soul kitchen;x;59;
+user_study_participant_5;4;Listened;2;human leather shoes for crocodile dandies;caravan palace;34;
+user_study_participant_5;4;Listened;3;ketchy shuby;peter tosh;64;
+user_study_participant_5;4;Listened;4;where did our love go;the supremes;43;
+user_study_participant_5;4;Listened;5;cross my mind;a r i z o n a;72;
+user_study_participant_5;4;Listened;6;i couldn't leave you if i tried;rodney crowell;45;
+user_study_participant_5;4;Listened;7;split screen sadness;john mayer;39;
+user_study_participant_5;4;Listened;8;volare (nel blu dipinto di blu);jerry vale;55;
+user_study_participant_5;4;Listened;9;ice ice baby (club crasher mix);vanilla ice;65;
+user_study_participant_5;4;Listened;10;jam;three dog night;78;
+user_study_participant_5;4;Recommended;1;mock song;phish;5;1,0
+user_study_participant_5;4;Recommended;2;just my luck;tia ray;0;0,0
+user_study_participant_5;4;Recommended;3;live in the now;goodbye june;3;0,0
+user_study_participant_5;4;Recommended;4;come alive;foo fighters;0;0,0
+user_study_participant_5;4;Recommended;5;trains & boats & planes;the box tops;0;0,0
+user_study_participant_5;4;Recommended;6;please don't leave me;ray price;0;1,0
+user_study_participant_5;4;Recommended;7;mommy can i go out and kill tonight;misfits;0;1,0
+user_study_participant_5;4;Recommended;8;spirit crusher;death;0;0,0
+user_study_participant_5;4;Recommended;9;it's been too long;quicksilver messenger service;1;0,0
+user_study_participant_5;4;Recommended;10;you're the one;the black keys;0;0,0
+user_study_participant_6;4;Listened;1;shout bamalama;the detroit cobras;85;
+user_study_participant_6;4;Listened;2;the red;chevelle;85;
+user_study_participant_6;4;Listened;3;death row;mike zito;34;
+user_study_participant_6;4;Listened;4;limehouse blues;chet atkins;50;
+user_study_participant_6;4;Listened;5;saved;khalid;65;
+user_study_participant_6;4;Listened;6;the bare necessities;louis armstrong;100;
+user_study_participant_6;4;Listened;7;the frozen man;james taylor;63;
+user_study_participant_6;4;Listened;8;trophies;young money;55;
+user_study_participant_6;4;Listened;9;hole;royal blood;68;
+user_study_participant_6;4;Listened;10;the blacksmith blues;ella mae morse;61;
+user_study_participant_6;4;Recommended;1;love, hate, love;alice in chains;5;0,0
+user_study_participant_6;4;Recommended;2;hero;enrique iglesias;1;0,0
+user_study_participant_6;4;Recommended;3;without you;keith urban;1;0,0
+user_study_participant_6;4;Recommended;4;fear inoculum;tool;0;0,0
+user_study_participant_6;4;Recommended;5;money;mat kearney;0;0,0
+user_study_participant_6;4;Recommended;6;oh gosh;donovan;0;1,0
+user_study_participant_6;4;Recommended;7;the day you stop lookin' back;thomas rhett;3;0,0
+user_study_participant_6;4;Recommended;8;retaliation suite;thievery corporation;0;0,0
+user_study_participant_6;4;Recommended;9;total hate '95;no doubt;0;0,0
+user_study_participant_6;4;Recommended;10;(i wouldn't go there) if i were you;cody johnson;1;0,0
+user_study_participant_7;4;Listened;1;you know how we do it;ice cube;99;
+user_study_participant_7;4;Listened;2;rest of you;six60;59;
+user_study_participant_7;4;Listened;3;euro-trash girl;cracker;61;
+user_study_participant_7;4;Listened;4;dancin' by myself;ambrosia;60;
+user_study_participant_7;4;Listened;5;starbound;j.j. cale;97;
+user_study_participant_7;4;Listened;6;too much thinking;keef hartley band;66;
+user_study_participant_7;4;Listened;7;i can't stop loving you;madeleine peyroux;78;
+user_study_participant_7;4;Listened;8;lonely but only for you;k.t. oslin;26;
+user_study_participant_7;4;Listened;9;no respect;buju banton;32;
+user_study_participant_7;4;Listened;10;cherry hill park;billy joe royal;88;
+user_study_participant_7;4;Recommended;1;mean old world;sam cooke;0;1,0
+user_study_participant_7;4;Recommended;2;plastic fantastic lover;jefferson airplane;0;0,0
+user_study_participant_7;4;Recommended;3;fight on;peter tosh;2;0,0
+user_study_participant_7;4;Recommended;4;god bless saturday;kid rock;2;0,0
+user_study_participant_7;4;Recommended;5;anywhere i go;slightly stoopid;9;1,0
+user_study_participant_7;4;Recommended;6;still holding out for you;shedaisy;0;0,0
+user_study_participant_7;4;Recommended;7;blue jay way;the beatles;3;0,0
+user_study_participant_7;4;Recommended;8;back in your head;tegan and sara;2;0,0
+user_study_participant_7;4;Recommended;9;winter wonderland;harry connick, jr.;12;1,0
+user_study_participant_7;4;Recommended;10;toothpaste kisses;the maccabees;0;0,0
+user_study_participant_8;4;Listened;1;a million miles away;the plimsouls;53;
+user_study_participant_8;4;Listened;2;the youth;mgmt;65;
+user_study_participant_8;4;Listened;3;you spin me right round (like a record);sweet;67;
+user_study_participant_8;4;Listened;4;f**k y'all;pastor troy;100;
+user_study_participant_8;4;Listened;5;the sadness in a song;stonewall jackson;93;
+user_study_participant_8;4;Listened;6;so many ways;juice newton;64;
+user_study_participant_8;4;Listened;7;the man;lorne greene;84;
+user_study_participant_8;4;Listened;8;you're getting to be a habit with me;doris day;69;
+user_study_participant_8;4;Listened;9;l.i.t.;riley richard;66;
+user_study_participant_8;4;Listened;10;serious drug;wildcookie;51;
+user_study_participant_8;4;Recommended;1;love is here to stay;tony bennett;0;0,0
+user_study_participant_8;4;Recommended;2;the judge's daughter;green day;0;0,0
+user_study_participant_8;4;Recommended;3;the old crossroads;ricky skaggs;0;0,0
+user_study_participant_8;4;Recommended;4;memories of you;carol welsman;2;0,0
+user_study_participant_8;4;Recommended;5;emergency on planet earth;jamiroquai;3;0,0
+user_study_participant_8;4;Recommended;6;jet son;blockhead;3;0,0
+user_study_participant_8;4;Recommended;7;come back to bed;john mayer;0;0,0
+user_study_participant_8;4;Recommended;8;brave man's death;j. roddy walston & the business;0;1,0
+user_study_participant_8;4;Recommended;9;it's a lovely day today;ella fitzgerald;8;0,0
+user_study_participant_8;4;Recommended;10;nothin' for nothin';cinderella;0;0,0
+user_study_participant_9;4;Listened;1;rock and roll;led zeppelin;32;
+user_study_participant_9;4;Listened;2;i don't want to miss a thing;aerosmith;60;
+user_study_participant_9;4;Listened;3;anyway;martina mcbride;67;
+user_study_participant_9;4;Listened;4;what a shame;foghat;61;
+user_study_participant_9;4;Listened;5;foul play;robert cray;59;
+user_study_participant_9;4;Listened;6;happy ending;elvis presley;96;
+user_study_participant_9;4;Listened;7;nothing i hold on to (live);will reagan;49;
+user_study_participant_9;4;Listened;8;assimilate;skinny puppy;49;
+user_study_participant_9;4;Listened;9;plump;hole;85;
+user_study_participant_9;4;Listened;10;car radio;twenty one pilots;61;
+user_study_participant_9;4;Recommended;1;along comes mary;george benson;0;0,0
+user_study_participant_9;4;Recommended;2;higher ground;tammy wynette;0;0,0
+user_study_participant_9;4;Recommended;3;blue christmas;johnny mathis;0;0,0
+user_study_participant_9;4;Recommended;4;the art of love;michael franks;1;1,0
+user_study_participant_9;4;Recommended;5;oh gosh;donovan;0;0,0
+user_study_participant_9;4;Recommended;6;it’s all over but the shouting;jd mcpherson;0;0,0
+user_study_participant_9;4;Recommended;7;the bed's too big without you;the police;1;0,0
+user_study_participant_9;4;Recommended;8;ain't nothing 'bout you;brooks & dunn;3;0,0
+user_study_participant_9;4;Recommended;9;watching you without me;kate bush;0;0,0
+user_study_participant_9;4;Recommended;10;learn yourself;the beautiful girls;0;0,0
+user_study_participant_10;4;Listened;1;blood on your hands;philip sayce;75;
+user_study_participant_10;4;Listened;2;cowgirl (feat. j wonn & t baby);big yayo;77;
+user_study_participant_10;4;Listened;3;disseshowedo;souls of mischief;98;
+user_study_participant_10;4;Listened;4;shutters and boards;dean martin;32;
+user_study_participant_10;4;Listened;5;atlanta;stone temple pilots;76;
+user_study_participant_10;4;Listened;6;texas heartache;juice newton;90;
+user_study_participant_10;4;Listened;7;i can't stop loving you;diane schuur;91;
+user_study_participant_10;4;Listened;8;bad boy (feat. jungle rock jr.);"royce da 5'9""";84;
+user_study_participant_10;4;Listened;9;gunboats;swell maps;47;
+user_study_participant_10;4;Listened;10;when the love light starts shining thru his eyes;dusty springfield;97;
+user_study_participant_10;4;Recommended;1;island boy;kenny chesney;0;0,0
+user_study_participant_10;4;Recommended;2;last cheater's waltz;t.g. sheppard;0;0,0
+user_study_participant_10;4;Recommended;3;jealous;k.t. oslin;0;0,0
+user_study_participant_10;4;Recommended;4;wanted dread and alive;peter tosh;11;0,0
+user_study_participant_10;4;Recommended;5;sinsemilla;black uhuru;0;0,0
+user_study_participant_10;4;Recommended;6;fear inoculum;tool;0;0,0
+user_study_participant_10;4;Recommended;7;drive by;eric bellinger;1;0,0
+user_study_participant_10;4;Recommended;8;it’s all over but the shouting;jd mcpherson;0;0,0
+user_study_participant_10;4;Recommended;9;chanting;junior reid;0;0,0
+user_study_participant_10;4;Recommended;10;money in the bank (feat. young buck);lil scrappy;2;0,0
+user_study_participant_1;5;Listened;1;let you down;dave matthews band;93;
+user_study_participant_1;5;Listened;2;my own way;duran duran;47;
+user_study_participant_1;5;Listened;3;coke and white bitches;a$ap mob;85;
+user_study_participant_1;5;Listened;4;look good in blue;blondie;64;
+user_study_participant_1;5;Listened;5;you and i;glenn miller;71;
+user_study_participant_1;5;Listened;6;stay this way;the brand new heavies;89;
+user_study_participant_1;5;Listened;7;accelerated evolution;the faceless;68;
+user_study_participant_1;5;Listened;8;hum tujhse mohabbat kar ke;mukesh;99;
+user_study_participant_1;5;Listened;9;on our way;too rude;93;
+user_study_participant_1;5;Listened;10;i really hope it's you;michael franks;69;
+user_study_participant_1;5;Recommended;1;things that break;miranda lambert;3;1,0
+user_study_participant_1;5;Recommended;2;blue christmas;johnny mathis;0;1,0
+user_study_participant_1;5;Recommended;3;ladies and gentlemen;saliva;1;1,0
+user_study_participant_1;5;Recommended;4;agitato;blood, sweat & tears;0;0,0
+user_study_participant_1;5;Recommended;5;(sittin' on) the dock of the bay;glen campbell;2;0,0
+user_study_participant_1;5;Recommended;6;fade out;rival sons;0;0,0
+user_study_participant_1;5;Recommended;7;kill again;slayer;4;0,0
+user_study_participant_1;5;Recommended;8;to you;the manhattan transfer;1;0,0
+user_study_participant_1;5;Recommended;9;you are my starship;norman connors;2;0,0
+user_study_participant_1;5;Recommended;10;mono;zero 7;0;0,0
+user_study_participant_2;5;Listened;1;in session;kbong;99;
+user_study_participant_2;5;Listened;2;sanctuary;camel;96;
+user_study_participant_2;5;Listened;3;johnny reb;johnny cash;87;
+user_study_participant_2;5;Listened;4;third law;leprous;63;
+user_study_participant_2;5;Listened;5;rock me baby;jimi hendrix;26;
+user_study_participant_2;5;Listened;6;titus was born;young the giant;82;
+user_study_participant_2;5;Listened;7;ocelot;hiatus kaiyote;67;
+user_study_participant_2;5;Listened;8;white iverson;post malone;92;
+user_study_participant_2;5;Listened;9;women don't want to love me;joe bataan;38;
+user_study_participant_2;5;Listened;10;out of the abyss;prince far i;90;
+user_study_participant_2;5;Recommended;1;yours and mine;kyle park;0;0,0
+user_study_participant_2;5;Recommended;2;ain't that a shame;champion jack dupree;2;1,0
+user_study_participant_2;5;Recommended;3;factory;the vines;0;1,0
+user_study_participant_2;5;Recommended;4;clyde;j.j. cale;5;0,0
+user_study_participant_2;5;Recommended;5;rubber ring;the smiths;2;0,0
+user_study_participant_2;5;Recommended;6;like a star;laura fygi;3;0,0
+user_study_participant_2;5;Recommended;7;it's a tuff life;pat benatar;0;0,0
+user_study_participant_2;5;Recommended;8;but not like you;the platters;0;0,0
+user_study_participant_2;5;Recommended;9;oh gosh;donovan;0;0,0
+user_study_participant_2;5;Recommended;10;card carryin' fool;randy travis;1;0,0
+user_study_participant_3;5;Listened;1;lavender coffin;lionel hampton;79;
+user_study_participant_3;5;Listened;2;эта музыка;st;57;
+user_study_participant_3;5;Listened;3;master sold my baby;black joe lewis & the honeybears;54;
+user_study_participant_3;5;Listened;4;blue orchids;glenn miller;70;
+user_study_participant_3;5;Listened;5;they can't take that away from me;sarah vaughan;98;
+user_study_participant_3;5;Listened;6;please come home;gary clark jr.;40;
+user_study_participant_3;5;Listened;7;naked;james arthur;64;
+user_study_participant_3;5;Listened;8;a sunny day;donovan;88;
+user_study_participant_3;5;Listened;9;lifeless dead;mad season;43;
+user_study_participant_3;5;Listened;10;another day;galaxie 500;78;
+user_study_participant_3;5;Recommended;1;budos theme;the budos band;0;0,0
+user_study_participant_3;5;Recommended;2;it’s all over but the shouting;jd mcpherson;0;1,0
+user_study_participant_3;5;Recommended;3;blunts;nice & smooth;1;0,0
+user_study_participant_3;5;Recommended;4;in your eyes;kylie minogue;2;0,0
+user_study_participant_3;5;Recommended;5;close your eyes;dan + shay;1;0,0
+user_study_participant_3;5;Recommended;6;dimples;the allman brothers band;0;0,0
+user_study_participant_3;5;Recommended;7;summer day reflection song;donovan;0;0,0
+user_study_participant_3;5;Recommended;8;original man;capleton;0;1,0
+user_study_participant_3;5;Recommended;9;holdin' on to you;dolly parton;0;0,0
+user_study_participant_3;5;Recommended;10;let me run into your lonely heart;eddie kendricks;11;0,0
+user_study_participant_4;5;Listened;1;angel;aretha franklin;47;
+user_study_participant_4;5;Listened;2;fingerprints;patsy cline;52;
+user_study_participant_4;5;Listened;3;pretty position;vybz kartel;99;
+user_study_participant_4;5;Listened;4;house of broken love;great white;48;
+user_study_participant_4;5;Listened;5;all of me;willie nelson;86;
+user_study_participant_4;5;Listened;6;scarborough fair;celtic woman;39;
+user_study_participant_4;5;Listened;7;for once in my life;dean martin;71;
+user_study_participant_4;5;Listened;8;why don't you write me;simon & garfunkel;78;
+user_study_participant_4;5;Listened;9;break away;the beach boys;51;
+user_study_participant_4;5;Listened;10;who do you love;bo diddley;53;
+user_study_participant_4;5;Recommended;1;lonely avenue;the animals;1;0,0
+user_study_participant_4;5;Recommended;2;ice ice baby;vanilla ice;1;0,0
+user_study_participant_4;5;Recommended;3;drowning on dry land/fish soup;manfred mann's earth band;0;0,0
+user_study_participant_4;5;Recommended;4;teenage lament '74;alice cooper;0;0,0
+user_study_participant_4;5;Recommended;5;i beg of you;the allman brothers band;0;0,0
+user_study_participant_4;5;Recommended;6;all this time;onerepublic;0;0,0
+user_study_participant_4;5;Recommended;7;echo's answer;broadcast;0;0,0
+user_study_participant_4;5;Recommended;8;the old crossroads;ricky skaggs;0;0,0
+user_study_participant_4;5;Recommended;9;shooting the moon;ok go;0;0,0
+user_study_participant_4;5;Recommended;10;it's only right;wallows;0;0,0
+user_study_participant_5;5;Listened;1;the world it softly lulls;hiatus kaiyote;47;
+user_study_participant_5;5;Listened;2;breakin' all the rules;ozzy osbourne;53;
+user_study_participant_5;5;Listened;3;rock to sleep;horace andy;49;
+user_study_participant_5;5;Listened;4;car thief;beastie boys;61;
+user_study_participant_5;5;Listened;5;american music;the blasters;74;
+user_study_participant_5;5;Listened;6;let you down;dave matthews band;93;
+user_study_participant_5;5;Listened;7;a fool never learns;andy williams;29;
+user_study_participant_5;5;Listened;8;it ain't easy bein' easy;janie fricke;83;
+user_study_participant_5;5;Listened;9;autumn leaves;willie nelson;70;
+user_study_participant_5;5;Listened;10;sand;nancy sinatra;40;
+user_study_participant_5;5;Recommended;1;hey, hey we're the gories;the gories;1;0,0
+user_study_participant_5;5;Recommended;2;feliz navidad;josé feliciano;1;0,0
+user_study_participant_5;5;Recommended;3;if i never get to heaven;dinah washington;1;0,0
+user_study_participant_5;5;Recommended;4;i'll be your mirror;the velvet underground;0;0,0
+user_study_participant_5;5;Recommended;5;it could be you (instead of him);johnny cash;2;1,0
+user_study_participant_5;5;Recommended;6;fade out;rival sons;0;0,0
+user_study_participant_5;5;Recommended;7;from now on;lou rawls;0;0,0
+user_study_participant_5;5;Recommended;8;shots;imagine dragons;1;1,0
+user_study_participant_5;5;Recommended;9;blue tarp blues;sonny landreth;0;0,0
+user_study_participant_5;5;Recommended;10;songs from the wood;jethro tull;0;0,0
+user_study_participant_6;5;Listened;1;true one;gene clark;58;
+user_study_participant_6;5;Listened;2;feeling good;demun jones;93;
+user_study_participant_6;5;Listened;3;baby love;the supremes;83;
+user_study_participant_6;5;Listened;4;every time she whispers;michael franks;44;
+user_study_participant_6;5;Listened;5;love is queen omega;zuco 103;58;
+user_study_participant_6;5;Listened;6;sick of it;skillet;94;
+user_study_participant_6;5;Listened;7;the great pretender;sam cooke;76;
+user_study_participant_6;5;Listened;8;mystery of life;nickodemus;64;
+user_study_participant_6;5;Listened;9;everytime;bone thugs-n-harmony;74;
+user_study_participant_6;5;Listened;10;payphone;maroon 5;63;
+user_study_participant_6;5;Recommended;1;oh gosh;donovan;0;0,0
+user_study_participant_6;5;Recommended;2;lizzy;melvins;1;0,0
+user_study_participant_6;5;Recommended;3;rock or bust;ac/dc;0;0,0
+user_study_participant_6;5;Recommended;4;glycerine;bush;0;0,0
+user_study_participant_6;5;Recommended;5;la jaunda;chuck berry;1;0,0
+user_study_participant_6;5;Recommended;6;the hardest walk;the jesus and mary chain;12;0,0
+user_study_participant_6;5;Recommended;7;my mirage;iron butterfly;0;0,0
+user_study_participant_6;5;Recommended;8;maybe some day;john holt;2;0,0
+user_study_participant_6;5;Recommended;9;mohair sam;slim harpo;0;0,0
+user_study_participant_6;5;Recommended;10;welcome back home;the dramatics;46;0,0
+user_study_participant_7;5;Listened;1;julia;the beatles;63;
+user_study_participant_7;5;Listened;2;lay down beside me;don williams;89;
+user_study_participant_7;5;Listened;3;shooting star;hale;99;
+user_study_participant_7;5;Listened;4;creepin';grand funk railroad;55;
+user_study_participant_7;5;Listened;5;shame on the night;dio;18;
+user_study_participant_7;5;Listened;6;a year ago;kenny g;68;
+user_study_participant_7;5;Listened;7;slowburn;peter gabriel;65;
+user_study_participant_7;5;Listened;8;family tree;caylee hammack;68;
+user_study_participant_7;5;Listened;9;don't you ever get tired of hurting me;ray price;70;
+user_study_participant_7;5;Listened;10;you may see me;grace potter & the nocturnals;98;
+user_study_participant_7;5;Recommended;1;come alive;foo fighters;0;0,0
+user_study_participant_7;5;Recommended;2;on the run;pink floyd;2;1,0
+user_study_participant_7;5;Recommended;3;suffer;the smashing pumpkins;1;0,0
+user_study_participant_7;5;Recommended;4;panic prone;chevelle;0;0,0
+user_study_participant_7;5;Recommended;5;unleashed;killswitch engage;0;1,0
+user_study_participant_7;5;Recommended;6;this painted world;silk rhodes;23;1,0
+user_study_participant_7;5;Recommended;7;it's a tuff life;pat benatar;0;0,0
+user_study_participant_7;5;Recommended;8;coroner;lando chill;1;0,0
+user_study_participant_7;5;Recommended;9;move for me;kaskade;2;0,0
+user_study_participant_7;5;Recommended;10;mirror mirror;m2m;1;0,0
+user_study_participant_8;5;Listened;1;our lives are shaped by what we love;odyssey;83;
+user_study_participant_8;5;Listened;2;no use in crying;the rolling stones;82;
+user_study_participant_8;5;Listened;3;a lil bit of;flofilz;59;
+user_study_participant_8;5;Listened;4;simple things;minnie riperton;37;
+user_study_participant_8;5;Listened;5;alive & amplified;the mooney suzuki;97;
+user_study_participant_8;5;Listened;6;last resort;papa roach;82;
+user_study_participant_8;5;Listened;7;heart of stone;the platters;47;
+user_study_participant_8;5;Listened;8;chandra;keith jarrett;52;
+user_study_participant_8;5;Listened;9;don't wanna lose you;gloria estefan;68;
+user_study_participant_8;5;Listened;10;love is strange;buddy holly;79;
+user_study_participant_8;5;Recommended;1;the love sermon;al green;13;0,0
+user_study_participant_8;5;Recommended;2;savane;ali farka touré;0;0,0
+user_study_participant_8;5;Recommended;3;stuck on a wire out on a fence;the dear hunter;5;0,0
+user_study_participant_8;5;Recommended;4;mr pharmacist;the fall;0;1,0
+user_study_participant_8;5;Recommended;5;the pros and cons of breathing;fall out boy;0;0,0
+user_study_participant_8;5;Recommended;6;do for the others;crosby, stills & nash;0;0,0
+user_study_participant_8;5;Recommended;7;use your heart;swv;0;1,0
+user_study_participant_8;5;Recommended;8;all we do;oh wonder;1;0,0
+user_study_participant_8;5;Recommended;9;ring them bells;bob dylan;0;0,0
+user_study_participant_8;5;Recommended;10;hyper-ballad;björk;0;0,0
+user_study_participant_9;5;Listened;1;seattle party;chastity belt;45;
+user_study_participant_9;5;Listened;2;bad religion;godsmack;42;
+user_study_participant_9;5;Listened;3;fight to survive;israel vibration;63;
+user_study_participant_9;5;Listened;4;what hurts the most;rascal flatts;63;
+user_study_participant_9;5;Listened;5;since you been gone;rainbow;23;
+user_study_participant_9;5;Listened;6;moonglow;benny goodman;43;
+user_study_participant_9;5;Listened;7;i will start all over again;diamond rio;19;
+user_study_participant_9;5;Listened;8;thru' with the two step;robert plant;86;
+user_study_participant_9;5;Listened;9;just to be loved;al jarreau;40;
+user_study_participant_9;5;Listened;10;heartaches;the marcels;98;
+user_study_participant_9;5;Recommended;1;mr pharmacist;the fall;0;0,0
+user_study_participant_9;5;Recommended;2;come alive;foo fighters;0;0,0
+user_study_participant_9;5;Recommended;3;astronaut's nightmare;nektar;0;1,0
+user_study_participant_9;5;Recommended;4;best of me, part 2;mýa;0;0,0
+user_study_participant_9;5;Recommended;5;i'll be your mirror;the velvet underground;0;0,0
+user_study_participant_9;5;Recommended;6;heaven and hell;willie nelson;3;0,0
+user_study_participant_9;5;Recommended;7;jah live;luciano;0;0,0
+user_study_participant_9;5;Recommended;8;high hopes;pink floyd;0;0,0
+user_study_participant_9;5;Recommended;9;long dark road;the hollies;0;0,0
+user_study_participant_9;5;Recommended;10;a song for you;donny hathaway;0;0,0
+user_study_participant_10;5;Listened;1;i'm alive;céline dion;85;
+user_study_participant_10;5;Listened;2;oh i apologize;the marvelettes;41;
+user_study_participant_10;5;Listened;3;ain't it funny what a fool will do;george jones;41;
+user_study_participant_10;5;Listened;4;i metal;slightly stoopid;82;
+user_study_participant_10;5;Listened;5;ram on;paul mccartney;72;
+user_study_participant_10;5;Listened;6;i want to make the world turn around;steve miller band;53;
+user_study_participant_10;5;Listened;7;long walk;bad company;57;
+user_study_participant_10;5;Listened;8;save me;danielle nicole;96;
+user_study_participant_10;5;Listened;9;to find a friend;tom petty;86;
+user_study_participant_10;5;Listened;10;i killed robert johnson;the stone foxes;92;
+user_study_participant_10;5;Recommended;1;state of attraction;paula abdul;3;0,0
+user_study_participant_10;5;Recommended;2;horses (with pnb rock, kodak black & a boogie wit da hoodie);pnb rock;0;0,0
+user_study_participant_10;5;Recommended;3;i believe (in everything);jj grey & mofro;0;0,0
+user_study_participant_10;5;Recommended;4;got you on my mind;jean shepard;0;0,0
+user_study_participant_10;5;Recommended;5;mirage;jean-luc ponty;0;0,0
+user_study_participant_10;5;Recommended;6;the feel good drag;anberlin;0;0,0
+user_study_participant_10;5;Recommended;7;i go on;mc lyte;0;0,0
+user_study_participant_10;5;Recommended;8;walk in the night;jr. walker & the all stars;0;1,0
+user_study_participant_10;5;Recommended;9;falling to pieces;faith no more;0;0,0
+user_study_participant_10;5;Recommended;10;7 months, 39 days;hank williams iii;0;0,0
+user_study_participant_1;6;Listened;1;trompe le monde;pixies;75;
+user_study_participant_1;6;Listened;2;too many broken hearts;jason donovan;57;
+user_study_participant_1;6;Listened;3;buckle up or bow down;jawga boyz;96;
+user_study_participant_1;6;Listened;4;how to fly;sticky fingers;93;
+user_study_participant_1;6;Listened;5;february seven;the avett brothers;92;
+user_study_participant_1;6;Listened;6;traveling tune;gov't mule;99;
+user_study_participant_1;6;Listened;7;nurse rozetta;alice cooper;60;
+user_study_participant_1;6;Listened;8;kingdom rise kingdom fall;wailing souls;30;
+user_study_participant_1;6;Listened;9;the morning, you & love;george duke;67;
+user_study_participant_1;6;Listened;10;reggae feeling;anthony johnson;74;
+user_study_participant_1;6;Recommended;1;no reason;sum 41;1;0,0
+user_study_participant_1;6;Recommended;2;my fault;imagine dragons;0;0,0
+user_study_participant_1;6;Recommended;3;girl;t. rex;3;1,0
+user_study_participant_1;6;Recommended;4;i love the life i live;mose allison;2;1,0
+user_study_participant_1;6;Recommended;5;overdrive;simplified;0;0,0
+user_study_participant_1;6;Recommended;6;book of saturday;king crimson;0;0,0
+user_study_participant_1;6;Recommended;7;the pros and cons of breathing;fall out boy;0;0,0
+user_study_participant_1;6;Recommended;8;it's supposed to bubble;ugk;0;0,0
+user_study_participant_1;6;Recommended;9;multiply the heartaches;george jones;5;1,0
+user_study_participant_1;6;Recommended;10;the art of love;michael franks;1;0,0
+user_study_participant_2;6;Listened;1;voices of babylon;the outfield;27;
+user_study_participant_2;6;Listened;2;letters have no arms;ray price;83;
+user_study_participant_2;6;Listened;3;i can't help myself;bonnie raitt;61;
+user_study_participant_2;6;Listened;4;first it giveth;queens of the stone age;51;
+user_study_participant_2;6;Listened;5;got soul;robert randolph & the family band;43;
+user_study_participant_2;6;Listened;6;tell me why;change;81;
+user_study_participant_2;6;Listened;7;axilla i;phish;78;
+user_study_participant_2;6;Listened;8;deep dark dungeon;j.j. cale;69;
+user_study_participant_2;6;Listened;9;honeysuckle rose;count basie;81;
+user_study_participant_2;6;Listened;10;ferry cross the mersey;gerry & the pacemakers;85;
+user_study_participant_2;6;Recommended;1;people make the world go round;walter beasley;0;1,0
+user_study_participant_2;6;Recommended;2;the shelter of your arms;sammy davis jr.;1;0,0
+user_study_participant_2;6;Recommended;3;black capricorn day;jamiroquai;5;0,0
+user_study_participant_2;6;Recommended;4;m;the cure;1;0,0
+user_study_participant_2;6;Recommended;5;i palindrome i;they might be giants;0;0,0
+user_study_participant_2;6;Recommended;6;heresy;pantera;0;0,0
+user_study_participant_2;6;Recommended;7;down in a hole;ryan adams & the cardinals;0;0,0
+user_study_participant_2;6;Recommended;8;don't drink the piss;mad professor;2;0,0
+user_study_participant_2;6;Recommended;9;black pride;kofi;1;0,0
+user_study_participant_2;6;Recommended;10;and the story goes;brian simpson;1;0,0
+user_study_participant_3;6;Listened;1;awakening;special efx;62;
+user_study_participant_3;6;Listened;2;roo;chance the rapper;55;
+user_study_participant_3;6;Listened;3;solitaire / unraveling;mushroomhead;74;
+user_study_participant_3;6;Listened;4;it's only love;bryan adams;43;
+user_study_participant_3;6;Listened;5;hip hop based freestyle;lil b;84;
+user_study_participant_3;6;Listened;6;midnight train to georgia;gladys knight & the pips;56;
+user_study_participant_3;6;Listened;7;here am i;johnnie ray;68;
+user_study_participant_3;6;Listened;8;nowhere train;carlene carter;64;
+user_study_participant_3;6;Listened;9;planetary duality ii: a prophecies fruition;the faceless;73;
+user_study_participant_3;6;Listened;10;bally mena;harry belafonte;73;
+user_study_participant_3;6;Recommended;1;level up;popcaan;2;0,0
+user_study_participant_3;6;Recommended;2;keepin' out of mischief now;louis armstrong;1;0,0
+user_study_participant_3;6;Recommended;3;a maiden's prayer;ray price;0;1,0
+user_study_participant_3;6;Recommended;4;scribble on a clean surface;aceyalone;2;0,0
+user_study_participant_3;6;Recommended;5;keep me;the black keys;4;0,0
+user_study_participant_3;6;Recommended;6;trains & boats & planes;the box tops;0;0,0
+user_study_participant_3;6;Recommended;7;dedicate my song to you (dedicated to you);the jamaicans;5;0,0
+user_study_participant_3;6;Recommended;8;please come back home;carl smith;0;0,0
+user_study_participant_3;6;Recommended;9;white trash (second generation);bad religion;0;0,0
+user_study_participant_3;6;Recommended;10;falling;julee cruise;0;0,0
+user_study_participant_4;6;Listened;1;i can't fall in love without you;zara larsson;69;
+user_study_participant_4;6;Listened;2;transfixion;meshuggah;78;
+user_study_participant_4;6;Listened;3;how's the world treating you;elvis presley;41;
+user_study_participant_4;6;Listened;4;friend of mine;the notorious b.i.g.;71;
+user_study_participant_4;6;Listened;5;what you gonna do?;north mississippi allstars;67;
+user_study_participant_4;6;Listened;6;love in this club (feat. young jeezy);usher;83;
+user_study_participant_4;6;Listened;7;one way ticket;neil sedaka;69;
+user_study_participant_4;6;Listened;8;no doubt;wendell b;47;
+user_study_participant_4;6;Listened;9;possession;sarah mclachlan;61;
+user_study_participant_4;6;Listened;10;fontessa;the modern jazz quartet;49;
+user_study_participant_4;6;Recommended;1;needed me;rihanna;0;0,0
+user_study_participant_4;6;Recommended;2;future;the hip abduction;2;0,0
+user_study_participant_4;6;Recommended;3;it came upon a midnight clear;ella fitzgerald;0;0,0
+user_study_participant_4;6;Recommended;4;glycerine;bush;0;0,0
+user_study_participant_4;6;Recommended;5;one day at a time;sublime with rome;2;0,0
+user_study_participant_4;6;Recommended;6;in the wake of poseidon;king crimson;0;0,0
+user_study_participant_4;6;Recommended;7;wall of death;richard & linda thompson;0;0,0
+user_study_participant_4;6;Recommended;8;holdin' on to you;dolly parton;0;0,0
+user_study_participant_4;6;Recommended;9;two hands;king crimson;0;0,0
+user_study_participant_4;6;Recommended;10;secretly;jimmie rodgers;0;0,0
+user_study_participant_5;6;Listened;1;carcass;siouxsie and the banshees;91;
+user_study_participant_5;6;Listened;2;i gotta feeling;the black eyed peas;16;
+user_study_participant_5;6;Listened;3;cry for me baby;elmore james;59;
+user_study_participant_5;6;Listened;4;cool cool rain;ray bonneville;61;
+user_study_participant_5;6;Listened;5;god's not dead (like a lion);newsboys;54;
+user_study_participant_5;6;Listened;6;palace doctor;thee oh sees;86;
+user_study_participant_5;6;Listened;7;jumpin' jack flash;johnny winter;85;
+user_study_participant_5;6;Listened;8;ray gun;badbadnotgood;98;
+user_study_participant_5;6;Listened;9;hit 'em up style (oops!) (feat. foxy brown);blu cantrell;71;
+user_study_participant_5;6;Listened;10;hanging on by a thread;the letter black;100;
+user_study_participant_5;6;Recommended;1;i'm never gonna roam again;johnny cash;1;0,0
+user_study_participant_5;6;Recommended;2;still holding out for you;shedaisy;0;0,0
+user_study_participant_5;6;Recommended;3;all this time;onerepublic;0;0,0
+user_study_participant_5;6;Recommended;4;douggie mayu's;dispatch;0;1,0
+user_study_participant_5;6;Recommended;5;blue tarp blues;sonny landreth;0;0,0
+user_study_participant_5;6;Recommended;6;good to me;eek-a-mouse;1;1,0
+user_study_participant_5;6;Recommended;7;black history month;death from above 1979;0;0,0
+user_study_participant_5;6;Recommended;8;lost inside your love;badfinger;1;0,0
+user_study_participant_5;6;Recommended;9;the devil don't sleep;brantley gilbert;0;0,0
+user_study_participant_5;6;Recommended;10;between the devil and me;alan jackson;0;0,0
+user_study_participant_6;6;Listened;1;unchained melody;sam cooke;69;
+user_study_participant_6;6;Listened;2;partners in crime (feat. ash costello);set it off;59;
+user_study_participant_6;6;Listened;3;wicked lady;wicked lady;82;
+user_study_participant_6;6;Listened;4;darn that dream;doris day;98;
+user_study_participant_6;6;Listened;5;osteraker (san quentin);johnny cash;94;
+user_study_participant_6;6;Listened;6;hellzapoppin';louis armstrong;97;
+user_study_participant_6;6;Listened;7;true believers;darius rucker;83;
+user_study_participant_6;6;Listened;8;90 degrees;yazmin lacey;65;
+user_study_participant_6;6;Listened;9;pink steam;sonic youth;97;
+user_study_participant_6;6;Listened;10;tomorrow never comes;zac brown band;77;
+user_study_participant_6;6;Recommended;1;the jet;chubby checker;0;1,0
+user_study_participant_6;6;Recommended;2;thirteen;johnny cash;0;0,0
+user_study_participant_6;6;Recommended;3;i go on;mc lyte;0;0,0
+user_study_participant_6;6;Recommended;4;she sells sanctuary;the cult;1;1,0
+user_study_participant_6;6;Recommended;5;wreck;gentle giant;0;0,0
+user_study_participant_6;6;Recommended;6;promise is a comfort;gregory isaacs;0;0,0
+user_study_participant_6;6;Recommended;7;sentient oona;thee oh sees;2;0,0
+user_study_participant_6;6;Recommended;8;lonely avenue;the animals;1;0,0
+user_study_participant_6;6;Recommended;9;she makes me feel so good;lyle lovett;0;0,0
+user_study_participant_6;6;Recommended;10;givin the dog a bone;ac/dc;0;0,0
+user_study_participant_7;6;Listened;1;here we go (live);dispatch;24;
+user_study_participant_7;6;Listened;2;the stone love allstars party in session;ky-mani marley;72;
+user_study_participant_7;6;Listened;3;teach me tonight;blossom dearie;92;
+user_study_participant_7;6;Listened;4;are you sleeping?;harry nilsson;57;
+user_study_participant_7;6;Listened;5;hop out;lndn drgs;86;
+user_study_participant_7;6;Listened;6;be honest with me;dean martin;98;
+user_study_participant_7;6;Listened;7;may god be with you;sonny james;34;
+user_study_participant_7;6;Listened;8;hold him joe;ziggy marley;45;
+user_study_participant_7;6;Listened;9;all that we perceive;thievery corporation;52;
+user_study_participant_7;6;Listened;10;lonely in the night;eric johnson;92;
+user_study_participant_7;6;Recommended;1;man in the trunk;young dro;1;0,0
+user_study_participant_7;6;Recommended;2;don't you quit;t-pain;5;0,0
+user_study_participant_7;6;Recommended;3;pilgrimage;r.e.m.;0;0,0
+user_study_participant_7;6;Recommended;4;a maiden's prayer;ray price;0;0,0
+user_study_participant_7;6;Recommended;5;astronaut's nightmare;nektar;0;0,0
+user_study_participant_7;6;Recommended;6;little toy guns;carrie underwood;25;0,0
+user_study_participant_7;6;Recommended;7;he made me free;george jones;44;0,0
+user_study_participant_7;6;Recommended;8;life off my years;lee brice;2;1,0
+user_study_participant_7;6;Recommended;9;that's him over there;nina simone;0;0,0
+user_study_participant_7;6;Recommended;10;night and day;stan getz;4;0,0
+user_study_participant_8;6;Listened;1;possession;sarah mclachlan;61;
+user_study_participant_8;6;Listened;2;just married;marty robbins;71;
+user_study_participant_8;6;Listened;3;chant;capleton;61;
+user_study_participant_8;6;Listened;4;these are days;10,000 maniacs;53;
+user_study_participant_8;6;Listened;5;don't leave me now;elvis presley;87;
+user_study_participant_8;6;Listened;6;greed, money, useless children;jay reatard;69;
+user_study_participant_8;6;Listened;7;love me over again;don williams;63;
+user_study_participant_8;6;Listened;8;there you'll be;faith hill;28;
+user_study_participant_8;6;Listened;9;let's fall in love;nat king cole;45;
+user_study_participant_8;6;Listened;10;rainbow sleeves;rickie lee jones;93;
+user_study_participant_8;6;Recommended;1;black rooster;the kills;0;0,0
+user_study_participant_8;6;Recommended;2;this old heart won't let go;gary stewart;11;0,0
+user_study_participant_8;6;Recommended;3;a tale of 2 citiez;j. cole;0;0,0
+user_study_participant_8;6;Recommended;4;lift him up that's all;washington phillips;1;0,0
+user_study_participant_8;6;Recommended;5;real real;nina simone;0;0,0
+user_study_participant_8;6;Recommended;6;whatever you do! don't!;shania twain;6;0,0
+user_study_participant_8;6;Recommended;7;beautiful life;ace of base;1;0,0
+user_study_participant_8;6;Recommended;8;madman's honey;wire;0;1,0
+user_study_participant_8;6;Recommended;9;love;john lennon;0;0,0
+user_study_participant_8;6;Recommended;10;i'm alone because i love you;eddie cochran;1;0,0
+user_study_participant_9;6;Listened;1;here i am;skid row;75;
+user_study_participant_9;6;Listened;2;grinder;judas priest;100;
+user_study_participant_9;6;Listened;3;highway headin' south;dolly parton;57;
+user_study_participant_9;6;Listened;4;sleeping satellite;tasmin archer;94;
+user_study_participant_9;6;Listened;5;nomad;death from above 1979;90;
+user_study_participant_9;6;Listened;6;i got over it;robben ford;95;
+user_study_participant_9;6;Listened;7;bedbugs and ballyhoo;echo & the bunnymen;73;
+user_study_participant_9;6;Listened;8;losin' streak;the wood brothers;85;
+user_study_participant_9;6;Listened;9;bring it on home to me;mickey gilley;86;
+user_study_participant_9;6;Listened;10;intro talk;mary j. blige;89;
+user_study_participant_9;6;Recommended;1;watching you without me;kate bush;0;0,0
+user_study_participant_9;6;Recommended;2;hold on to god;dwight yoakam;1;0,0
+user_study_participant_9;6;Recommended;3;pilgrimage;r.e.m.;0;0,0
+user_study_participant_9;6;Recommended;4;dirty blvd.;lou reed;1;1,0
+user_study_participant_9;6;Recommended;5;i've got a dark alley and a bad idea that says you should shut your mouth (summer song);fall out boy;3;0,0
+user_study_participant_9;6;Recommended;6;i see you;missio;1;0,0
+user_study_participant_9;6;Recommended;7;tour's end;stan getz;1;1,0
+user_study_participant_9;6;Recommended;8;factory;the vines;0;0,0
+user_study_participant_9;6;Recommended;9;will there ever be another;george jones;0;0,0
+user_study_participant_9;6;Recommended;10;you're my world;helen reddy;1;0,0
+user_study_participant_10;6;Listened;1;medicine chest;nostalgia 77;97;
+user_study_participant_10;6;Listened;2;new biography;van morrison;68;
+user_study_participant_10;6;Listened;3;requiem;jethro tull;100;
+user_study_participant_10;6;Listened;4;dark entries;bauhaus;99;
+user_study_participant_10;6;Listened;5;no complaints;metro boomin;53;
+user_study_participant_10;6;Listened;6;the masquerade is over;cannonball adderley;60;
+user_study_participant_10;6;Listened;7;i miss you the most;andy griggs;57;
+user_study_participant_10;6;Listened;8;my back pages;bob dylan;47;
+user_study_participant_10;6;Listened;9;unchain my heart;joe cocker;87;
+user_study_participant_10;6;Listened;10;long ago (and far away);chet baker;53;
+user_study_participant_10;6;Recommended;1;heartbreak hotel;conway twitty;2;1,0
+user_study_participant_10;6;Recommended;2;more human than human;white zombie;0;0,0
+user_study_participant_10;6;Recommended;3;house of jealous lovers;the rapture;0;0,0
+user_study_participant_10;6;Recommended;4;the big come down;nine inch nails;3;0,0
+user_study_participant_10;6;Recommended;5;little star;chuck berry;10;0,0
+user_study_participant_10;6;Recommended;6;bole chudiyan;jatin-lalit;12;0,0
+user_study_participant_10;6;Recommended;7;back again;flor;8;0,0
+user_study_participant_10;6;Recommended;8;douggie mayu's;dispatch;0;1,0
+user_study_participant_10;6;Recommended;9;three times a lady;kenny rogers;0;0,0
+user_study_participant_10;6;Recommended;10;your cheatin' heart;leon redbone;1;0,0
+user_study_participant_1;7;Listened;1;it's not the night;the cars;89;
+user_study_participant_1;7;Listened;2;good life;kanye west;91;
+user_study_participant_1;7;Listened;3;roman holiday;nicki minaj;54;
+user_study_participant_1;7;Listened;4;before the next teardrop falls;freddy fender;52;
+user_study_participant_1;7;Listened;5;within without;the ozark mountain daredevils;35;
+user_study_participant_1;7;Listened;6;manifesto;nahko and medicine for the people;89;
+user_study_participant_1;7;Listened;7;tennessee river run;darryl worley;61;
+user_study_participant_1;7;Listened;8;another day;paul mccartney;99;
+user_study_participant_1;7;Listened;9;what i know;rebelution;68;
+user_study_participant_1;7;Listened;10;warning;ky-mani marley;73;
+user_study_participant_1;7;Recommended;1;pick up the pieces;average white band;7;0,0
+user_study_participant_1;7;Recommended;2;stella by starlight;joe pass;1;1,0
+user_study_participant_1;7;Recommended;3;anodyne;uncle tupelo;0;0,0
+user_study_participant_1;7;Recommended;4;use me;pepper;1;0,0
+user_study_participant_1;7;Recommended;5;summer day reflection song;donovan;0;0,0
+user_study_participant_1;7;Recommended;6;i can't help myself;eddie rabbitt;2;0,0
+user_study_participant_1;7;Recommended;7;false flag dub;thievery corporation;2;1,0
+user_study_participant_1;7;Recommended;8;brave man's death;j. roddy walston & the business;0;0,0
+user_study_participant_1;7;Recommended;9;love is my religion;ziggy marley;7;0,0
+user_study_participant_1;7;Recommended;10;falling;julee cruise;0;1,0
+user_study_participant_2;7;Listened;1;when god made you;newsong;69;
+user_study_participant_2;7;Listened;2;bad credit;ballyhoo!;69;
+user_study_participant_2;7;Listened;3;shine;das efx;57;
+user_study_participant_2;7;Listened;4;chaghaybou;tinariwen;76;
+user_study_participant_2;7;Listened;5;kill dem;vybz kartel;69;
+user_study_participant_2;7;Listened;6;ready to run;dixie chicks;52;
+user_study_participant_2;7;Listened;7;walk away;donna summer;60;
+user_study_participant_2;7;Listened;8;the summer wind;madeleine peyroux;67;
+user_study_participant_2;7;Listened;9;someday;glass tiger;38;
+user_study_participant_2;7;Listened;10;the wurlitzer prize;kacey musgraves;73;
+user_study_participant_2;7;Recommended;1;ways to go;grouplove;0;0,0
+user_study_participant_2;7;Recommended;2;if you're going through hell (before the devil even knows);rodney atkins;17;0,0
+user_study_participant_2;7;Recommended;3;glycerine;bush;0;0,0
+user_study_participant_2;7;Recommended;4;damaged goods;gang of four;0;0,0
+user_study_participant_2;7;Recommended;5;don't change;inxs;1;1,0
+user_study_participant_2;7;Recommended;6;the old crossroads;ricky skaggs;0;1,0
+user_study_participant_2;7;Recommended;7;when company comes;the feelies;0;0,0
+user_study_participant_2;7;Recommended;8;i believe;dolly parton;4;0,0
+user_study_participant_2;7;Recommended;9;a prayer;madeleine peyroux;0;0,0
+user_study_participant_2;7;Recommended;10;people make the world go round;walter beasley;0;1,0
+user_study_participant_3;7;Listened;1;brazil;les paul;98;
+user_study_participant_3;7;Listened;2;(this ain't) no thinkin' thing;trace adkins;71;
+user_study_participant_3;7;Listened;3;wasted days and wasted nights;texas tornados;48;
+user_study_participant_3;7;Listened;4;road angel;the doobie brothers;68;
+user_study_participant_3;7;Listened;5;i.o.u.;the replacements;47;
+user_study_participant_3;7;Listened;6;hold on;korn;97;
+user_study_participant_3;7;Listened;7;my love;wings;64;
+user_study_participant_3;7;Listened;8;boogie woogie woman;b.b. king;83;
+user_study_participant_3;7;Listened;9;war;frankie goes to hollywood;94;
+user_study_participant_3;7;Listened;10;little cabin home on the hill;ricky skaggs;94;
+user_study_participant_3;7;Recommended;1;she's thunderstorms;arctic monkeys;0;0,0
+user_study_participant_3;7;Recommended;2;so in love;orchestral manoeuvres in the dark;1;0,0
+user_study_participant_3;7;Recommended;3;jah live;luciano;0;0,0
+user_study_participant_3;7;Recommended;4;another's lifetime;steppenwolf;0;0,0
+user_study_participant_3;7;Recommended;5;breakin' away;al jarreau;5;0,0
+user_study_participant_3;7;Recommended;6;wam;a$ap ferg;0;0,0
+user_study_participant_3;7;Recommended;7;outlaw;mission of burma;9;0,0
+user_study_participant_3;7;Recommended;8;black rooster;the kills;0;0,0
+user_study_participant_3;7;Recommended;9;somebody should leave;reba mcentire;0;0,0
+user_study_participant_3;7;Recommended;10;voices carry;'til tuesday;1;0,0
+user_study_participant_4;7;Listened;1;lay awake;passafire;56;
+user_study_participant_4;7;Listened;2;show me the way to get out of this world ('cause that's where everything is);peggy lee;56;
+user_study_participant_4;7;Listened;3;the blackboard of my heart;hank thompson;62;
+user_study_participant_4;7;Listened;4;hallowed be thy name;iron maiden;91;
+user_study_participant_4;7;Listened;5;chase dem;stephen marley;94;
+user_study_participant_4;7;Listened;6;i just threw out the love of my dreams;weezer;87;
+user_study_participant_4;7;Listened;7;nobody's watching;jazz cartier;70;
+user_study_participant_4;7;Listened;8;zero;the smashing pumpkins;98;
+user_study_participant_4;7;Listened;9;but beautiful;joe pass;55;
+user_study_participant_4;7;Listened;10;just for a thrill;the ink spots;37;
+user_study_participant_4;7;Recommended;1;please be patient with me;wilco;0;0,0
+user_study_participant_4;7;Recommended;2;cattle call;leann rimes;3;0,0
+user_study_participant_4;7;Recommended;3;where do i go to throw a picture away;jim reeves;1;0,0
+user_study_participant_4;7;Recommended;4;without you;harry nilsson;5;0,0
+user_study_participant_4;7;Recommended;5;funny how time slips away;willie nelson;2;0,0
+user_study_participant_4;7;Recommended;6;needed me;rihanna;0;0,0
+user_study_participant_4;7;Recommended;7;reptile;nine inch nails;8;0,0
+user_study_participant_4;7;Recommended;8;when somebody loves you;restless heart;25;1,0
+user_study_participant_4;7;Recommended;9;cry, cry, cry;connie smith;0;0,0
+user_study_participant_4;7;Recommended;10;holdin' on to you;dolly parton;0;0,0
+user_study_participant_5;7;Listened;1;i hip hop;thundamentals;56;
+user_study_participant_5;7;Listened;2;tender boy;dirty heads;74;
+user_study_participant_5;7;Listened;3;stand by me;ry cooder;39;
+user_study_participant_5;7;Listened;4;lay, lady, lay;bob dylan;64;
+user_study_participant_5;7;Listened;5;simple man;gov't mule;69;
+user_study_participant_5;7;Listened;6;crank it up;colt ford;29;
+user_study_participant_5;7;Listened;7;throw away your television;red hot chili peppers;56;
+user_study_participant_5;7;Listened;8;stuntastic;big tymers;74;
+user_study_participant_5;7;Listened;9;broken;cross canadian ragweed;80;
+user_study_participant_5;7;Listened;10;out of the night;jaco pastorius;84;
+user_study_participant_5;7;Recommended;1;shut me up;mindless self indulgence;0;1,0
+user_study_participant_5;7;Recommended;2;johnny's got a gun;dead moon;0;0,0
+user_study_participant_5;7;Recommended;3;always;blink-182;1;0,0
+user_study_participant_5;7;Recommended;4;mama roux;dr. john;23;0,0
+user_study_participant_5;7;Recommended;5;cold morning light;todd rundgren;0;1,0
+user_study_participant_5;7;Recommended;6;without a trace;soul asylum;0;0,0
+user_study_participant_5;7;Recommended;7;5,45;gang of four;0;0,0
+user_study_participant_5;7;Recommended;8;loaded dice & buried money;tyler bryant & the shakedown;2;1,0
+user_study_participant_5;7;Recommended;9;it's so hard to wait;buffalo springfield;2;0,0
+user_study_participant_5;7;Recommended;10;suit & tie;rorystonelove;2;0,0
+user_study_participant_6;7;Listened;1;thirty summers;cowboy junkies;86;
+user_study_participant_6;7;Listened;2;easy living;billie holiday;97;
+user_study_participant_6;7;Listened;3;sinner saved by grace;gaither vocal band;85;
+user_study_participant_6;7;Listened;4;two story house;tammy wynette;44;
+user_study_participant_6;7;Listened;5;fight till you die;pennywise;44;
+user_study_participant_6;7;Listened;6;never ending story;limahl;70;
+user_study_participant_6;7;Listened;7;words;bee gees;91;
+user_study_participant_6;7;Listened;8;dead man's gun;thee oh sees;69;
+user_study_participant_6;7;Listened;9;elderly woman behind the counter in a small town (remastered);pearl jam;80;
+user_study_participant_6;7;Listened;10;margaritaville (with jimmy buffett);alan jackson;82;
+user_study_participant_6;7;Recommended;1;can't find my way home;eric clapton;1;0,0
+user_study_participant_6;7;Recommended;2;caroline, no;the beach boys;0;1,0
+user_study_participant_6;7;Recommended;3;coming around again;carly simon;2;0,0
+user_study_participant_6;7;Recommended;4;til a tear becomes a rose (feat. fiona prine);john prine;0;0,0
+user_study_participant_6;7;Recommended;5;miles out;john mclaughlin;0;0,0
+user_study_participant_6;7;Recommended;6;without a trace;soul asylum;0;0,0
+user_study_participant_6;7;Recommended;7;right where it belongs;nine inch nails;1;0,0
+user_study_participant_6;7;Recommended;8;monstrocity;meshuggah;1;0,0
+user_study_participant_6;7;Recommended;9;june;rjd2;0;0,0
+user_study_participant_6;7;Recommended;10;fear inoculum;tool;0;0,0
+user_study_participant_7;7;Listened;1;the ballad of chicken soup;carole king;100;
+user_study_participant_7;7;Listened;2;war and pain;voivod;95;
+user_study_participant_7;7;Listened;3;bouquet of roses;eddy arnold;88;
+user_study_participant_7;7;Listened;4;hello, darlin';charlie rich;57;
+user_study_participant_7;7;Listened;5;friends;cymande;67;
+user_study_participant_7;7;Listened;6;bussin juggs;gucci mane;84;
+user_study_participant_7;7;Listened;7;get down (remix) [feat. q-tip];craig mack;49;
+user_study_participant_7;7;Listened;8;perth;bon iver;44;
+user_study_participant_7;7;Listened;9;get this stranger out of me;lefty frizzell;80;
+user_study_participant_7;7;Listened;10;all the things you are;paul desmond;18;
+user_study_participant_7;7;Recommended;1;when company comes;the feelies;0;0,0
+user_study_participant_7;7;Recommended;2;black is black;jungle brothers;0;0,0
+user_study_participant_7;7;Recommended;3;thanks a lot;hank williams, jr.;0;0,0
+user_study_participant_7;7;Recommended;4;life by the drop;doyle bramhall;0;0,0
+user_study_participant_7;7;Recommended;5;the greatest hurt;jackie wilson;1;0,0
+user_study_participant_7;7;Recommended;6;check it out;lighter shade of brown;1;0,0
+user_study_participant_7;7;Recommended;7;gold watch and chain;emmylou harris;0;0,0
+user_study_participant_7;7;Recommended;8;it's a tuff life;pat benatar;0;0,0
+user_study_participant_7;7;Recommended;9;girl next door;long beach shortbus;0;0,0
+user_study_participant_7;7;Recommended;10;madman's honey;wire;0;0,0
+user_study_participant_8;7;Listened;1;distant sun;crowded house;75;
+user_study_participant_8;7;Listened;2;don't wanna wait for tomorrow;kings and comrades;75;
+user_study_participant_8;7;Listened;3;until the day i die;story of the year;93;
+user_study_participant_8;7;Listened;4;i remember when;new kids on the block;55;
+user_study_participant_8;7;Listened;5;40 versions;wire;93;
+user_study_participant_8;7;Listened;6;you're always pulling me down;ub40;10;
+user_study_participant_8;7;Listened;7;in your arms;elvis presley;72;
+user_study_participant_8;7;Listened;8;just out of reach;jim reeves;54;
+user_study_participant_8;7;Listened;9;love me tomorrow;chicago;61;
+user_study_participant_8;7;Listened;10;all of me;ella fitzgerald;62;
+user_study_participant_8;7;Recommended;1;speak your heart;lizz wright;1;0,0
+user_study_participant_8;7;Recommended;2;night time is the right time;the sonics;0;0,0
+user_study_participant_8;7;Recommended;3;come alive;foo fighters;0;0,0
+user_study_participant_8;7;Recommended;4;shady grove;taj mahal;0;0,0
+user_study_participant_8;7;Recommended;5;over the rainbow;melody gardot;0;0,0
+user_study_participant_8;7;Recommended;6;cascade;siouxsie and the banshees;0;0,0
+user_study_participant_8;7;Recommended;7;i get along without you very well (except sometimes);chet baker;2;0,0
+user_study_participant_8;7;Recommended;8;walking alone;green day;0;0,0
+user_study_participant_8;7;Recommended;9;when they ring the golden bell;sister rosetta tharpe;0;0,0
+user_study_participant_8;7;Recommended;10;walk away renée;jimmy lafave;0;0,0
+user_study_participant_9;7;Listened;1;drink you away;david fanning;52;
+user_study_participant_9;7;Listened;2;here comes the feeling;asia;6;
+user_study_participant_9;7;Listened;3;senza fine;dean martin;99;
+user_study_participant_9;7;Listened;4;there's a small hotel;bill charlap trio;39;
+user_study_participant_9;7;Listened;5;we'll burn the sky;scorpions;71;
+user_study_participant_9;7;Listened;6;love don't mean a thing;deep purple;50;
+user_study_participant_9;7;Listened;7;tonight's the night;herbie hancock;96;
+user_study_participant_9;7;Listened;8;lay lady lay (feat. anthony hamilton & robert randolph);buddy guy;69;
+user_study_participant_9;7;Listened;9;that's not love;keb' mo';57;
+user_study_participant_9;7;Listened;10;ballad of peter pumpkinhead;xtc;66;
+user_study_participant_9;7;Recommended;1;use your heart;swv;0;0,0
+user_study_participant_9;7;Recommended;2;stay with me;faces;0;0,0
+user_study_participant_9;7;Recommended;3;can't find my way home;eric clapton;1;0,0
+user_study_participant_9;7;Recommended;4;she makes me feel so good;lyle lovett;0;0,0
+user_study_participant_9;7;Recommended;5;what's yours is mine;the raconteurs;0;0,0
+user_study_participant_9;7;Recommended;6;too darn hot;ella fitzgerald;1;0,0
+user_study_participant_9;7;Recommended;7;how many tears;bobby vee;3;0,0
+user_study_participant_9;7;Recommended;8;it's supposed to bubble;ugk;0;0,0
+user_study_participant_9;7;Recommended;9;promise is a comfort;gregory isaacs;0;0,0
+user_study_participant_9;7;Recommended;10;combustion;meshuggah;11;0,0
+user_study_participant_10;7;Listened;1;hummingbirds;love;100;
+user_study_participant_10;7;Listened;2;goodnight elisabeth;counting crows;62;
+user_study_participant_10;7;Listened;3;body move;yellowman;67;
+user_study_participant_10;7;Listened;4;american nightmare;misfits;66;
+user_study_participant_10;7;Listened;5;if i can't change your mind;sugar;63;
+user_study_participant_10;7;Listened;6;le chal ri nindiya le chal hamen;lata mangeshkar;49;
+user_study_participant_10;7;Listened;7;it don't mean a thing (if it ain't got that swing);tony bennett;86;
+user_study_participant_10;7;Listened;8;can't remember to forget you (feat. rihanna);shakira;96;
+user_study_participant_10;7;Listened;9;supah;r.a. the rugged man;80;
+user_study_participant_10;7;Listened;10;half the man;clint black;68;
+user_study_participant_10;7;Recommended;1;replica;fear factory;0;0,0
+user_study_participant_10;7;Recommended;2;happiness in slavery;nine inch nails;0;0,0
+user_study_participant_10;7;Recommended;3;love;john lennon;0;0,0
+user_study_participant_10;7;Recommended;4;my first night alone without you;bonnie raitt;0;0,0
+user_study_participant_10;7;Recommended;5;a prayer;madeleine peyroux;0;0,0
+user_study_participant_10;7;Recommended;6;stay;frankie valli & the four seasons;8;0,0
+user_study_participant_10;7;Recommended;7;as the years go passing by;the jeff healey band;6;0,0
+user_study_participant_10;7;Recommended;8;like a star;laura fygi;3;0,0
+user_study_participant_10;7;Recommended;9;spring affair;donna summer;0;0,0
+user_study_participant_10;7;Recommended;10;he tells me he loves me;the delmonas;0;0,0
